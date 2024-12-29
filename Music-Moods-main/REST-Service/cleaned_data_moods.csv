@@ -1,0 +1,442 @@
+name,album,artist,id,release_date,popularity,length,danceability,acousticness,energy,instrumentalness,liveness,valence,loudness,speechiness,tempo,key,time_signature,mood
+23,23,blonde redhead,4hiwl9ii9ccxptotzmq0mp,2007-04-16,43,318800,0.381,0.0189,0.8320000000000001,0.196,0.153,0.166,-5.069,0.0492,120.255,8,4,sad
+9 crimes,9,damien rice,5gzeeowhvsiefdir8fq2im,2006-11-06,60,217946,0.346,0.913,0.139,7.730000000000001e-05,0.0934,0.116,-15.326,0.0321,136.168,0,4,sad
+a la plage,a la plage,ron adelaar,79nmifagcxuivdgfcwddwf,2020-08-07,29,141888,0.504,0.994,0.0584,0.956,0.115,0.5529999999999999,-20.461,0.0516,134.209,5,4,calm
+a little less conversation - jxl radio edit remix,elvis 75 - good rockin' tonight,elvis presley,4l2hnfux0essbitqa7ijt0,2009-12-28,1,211173,0.586,0.000155,0.935,0.277,0.159,0.58,-9.386,0.0482,114.997,4,4,happy
+adagio for strings,adagio for strings,lucas & steve,1rvdsjcbdtes3lpiegnnmy,2018-11-09,55,197189,0.349,0.000877,0.7929999999999999,0.431,0.22,0.0398,-6.747999999999998,0.0677,127.139,10,4,energetic
+adjustments,adjustments,josie mehlin,6w0vhpazbyjhrdobs3qe14,2020-01-17,52,182000,0.532,0.974,0.541,0.8640000000000001,0.228,0.329,-11.932,0.0283,136.063,0,4,calm
+adrift,adrift,cooper sams,3tnngjgoq7o8vwalvld9fg,2018-03-21,53,158117,0.382,0.4970000000000001,0.333,0.918,0.106,0.0486,-15.573,0.0367,84.97399999999998,7,4,calm
+africa,toto iv,toto,2374m0fqpwi3dlnb54qalx,1982-04-08,84,295893,0.6709999999999999,0.257,0.373,7.950000000000001e-05,0.0481,0.732,-18.064,0.0323,92.717,9,4,happy
+after the rain,after the rain,comet blue,2xbc2jwnvpqno2lebvtlay,2020-08-03,24,116625,0.456,0.993,0.0337,0.948,0.126,0.3,-26.87,0.0334,97.199,0,4,calm
+afterlife,avenged sevenfold,avenged sevenfold,4qdwsme04rg25kphcpyoox,2007-10-30,13,351560,0.4920000000000001,0.000444,0.95,6.22e-05,0.22,0.391,-4.195,0.076,110.027,2,4,energetic
+algo rhythm,temporär musik 1-13,one sentence. supervisor,0pqj7lsknltqqmnqpdclna,2016-10-28,0,210626,0.402,1.19e-05,0.75,0.959,0.122,0.58,-7.358,0.0293,149.941,2,4,sad
+alison,souvlaki,slowdive,55cenvq4alvdj1ps8ayb0m,1993,0,231893,0.279,0.00957,0.423,0.8370000000000001,0.128,0.291,-12.06,0.038,101.571,4,4,sad
+alive,alive,paris blohm,2rpjcl8gqaua2nbdrynzzl,2018-11-16,51,180468,0.494,0.00248,0.847,0.0,0.0502,0.148,-3.996,0.0537,129.909,0,4,energetic
+all mirrors,all mirrors,angel olsen,4zqdynvfiayhdoq5lcucq1,2019-07-31,1,282026,0.429,0.00299,0.6890000000000001,0.00193,0.152,0.23,-7.38,0.0379,105.04,7,4,sad
+all of me,love in the future (expanded edition),john legend,3u4isoiwm3vvdubwsi3y7a,2013-08-30,85,269560,0.422,0.922,0.264,0.0,0.132,0.331,-7.064,0.0322,119.93,8,4,sad
+always,back into your system,saliva,7kpa6mwrrpaf3b6c0dgiok,2002-11-12,63,231200,0.363,0.0122,0.906,0.0,0.172,0.371,-4.415,0.0615,181.96400000000003,1,4,energetic
+anchor,anchor,novo amor,6x6xkeuccjguacd4xh7kup,2015-10-23,0,256282,0.486,0.755,0.356,0.861,0.0986,0.111,-13.649,0.0318,117.141,9,4,sad
+angel's song,angel's song,arlo parks,5hxtmmvxz1ablgu34bktz1,2019-11-20,58,197243,0.693,0.894,0.195,0.0325,0.126,0.315,-15.278,0.0446,116.725,11,4,sad
+anthem,anthem,edx,1ssavervyid5oxzmtgzkkg,2018-03-30,44,158483,0.664,0.00152,0.86,0.894,0.197,0.249,-4.505,0.0345,121.991,7,4,happy
+ashes to ashes,ashes to ashes,warpaint,2lja0sy7vzpvj7qdfanouz,2010-10-05,51,310226,0.696,0.186,0.871,0.0282,0.173,0.8,-6.482,0.0357,118.938,1,4,sad
+atlavík,varða,hugar,6wdo6ds95slalcqcofbdqh,2019-08-23,53,155733,0.535,0.867,0.147,0.797,0.0825,0.238,-25.141,0.0382,126.823,2,4,calm
+auburn sky,auburn sky,toledo rains,42btxdrqftbe6jb6rd9qoz,2020-03-10,48,162829,0.265,0.906,0.035,0.89,0.0932,0.0651,-26.502,0.0359,132.972,4,4,calm
+bad feeling,bad feeling,muzz,1quawluot3iik95s09cdsz,2020-03-12,39,157930,0.512,0.351,0.352,0.74,0.106,0.275,-9.093,0.0354,82.943,5,4,sad
+bad kingdom,gold,may,7vcuaxrikelwgjsao5rekw,2018-01-19,57,193220,0.401,0.934,0.199,0.0064,0.112,0.0744,-14.409,0.0355,118.351,9,4,sad
+bad timing,bad timing,arlo day,2kscegx6tosqqegmhjknqa,2019-04-15,30,254886,0.471,0.6890000000000001,0.289,0.000535,0.0865,0.225,-9.784,0.0258,146.352,6,4,sad
+ballad of the dying man,ballad of the dying man,father john misty,65w8narxpq2ezoahteymf0,2017-02-01,0,290736,0.399,0.848,0.443,0.000406,0.0899,0.265,-9.168,0.0272,139.643,5,4,sad
+bayybe 07,bayybe,bilo 503,08qo8i2k0hxl0h8pincyuh,2017-11-17,50,114195,0.44,0.8270000000000001,0.384,0.934,0.156,0.0912,-12.331,0.0453,127.938,7,4,calm
+beautiful life,beautiful life,lost frequencies,2s25z079t5krzfqeqrmqq4,2016-06-03,31,161463,0.732,0.127,0.52,0.0347,0.139,0.339,-6.684,0.0376,119.979,2,4,happy
+beautiful night,burden brothers ep,burden brothers,4zhrvs7eqgdroy5e3kkes2,2002-08-13,38,259529,0.531,0.000508,0.892,0.024,0.144,0.599,-4.54,0.0582,130.13299999999998,7,4,energetic
+beekweide,beekweide,job roggeveen,199pi6mx1ifrdk8zmtntyx,2020-07-10,34,219215,0.321,0.984,0.11,0.963,0.115,0.173,-23.63,0.0345,73.914,8,4,calm
+before you go,divinely uninspired to a hellish extent (extended edition),lewis capaldi,2gmxnyrvijhvbuzwvlzdmp,2019-11-22,85,215106,0.459,0.604,0.575,0.0,0.0885,0.183,-4.8580000000000005,0.0573,111.881,3,4,sad
+better than today,better than today,rhys lewis,6mlhg35rlksbc5obcdzvji,2019-01-04,60,230353,0.387,0.736,0.234,0.0,0.084,0.408,-8.861,0.0373,78.65,0,4,sad
+better together,in between dreams,jack johnson,4vywxu6umkiq2os0m1i79y,2005-01-01,72,207680,0.868,0.308,0.347,2e-05,0.11,0.659,-9.529,0.0536,110.059,5,4,happy
+betty,betty,wilson trouvé,0ybm8cohjb6iimi2em8pic,2020-05-29,32,161750,0.171,0.89,0.185,0.94,0.101,0.264,-19.651,0.0348,142.694,9,4,calm
+bird,writing of blues and yellows (deluxe version),billie marten,6dzvc1vhpytfflbbayba7w,2016-09-23,55,220640,0.235,0.988,0.187,0.00197,0.106,0.118,-12.754,0.0347,85.962,6,4,sad
+bison on the plains,bison on the plains,grandaddy,0e0hvla9nkilk2jwowvcmw,2018-11-19,32,308800,0.476,0.285,0.522,0.0127,0.193,0.0973,-8.158999999999999,0.0281,133.874,9,4,sad
+black car,black car,beach house,7esnexsnylx85yft6zisun,2018-05-02,0,251160,0.407,0.344,0.5489999999999999,0.901,0.111,0.32,-10.244000000000002,0.0293,77.473,9,4,sad
+blackout,blackout,(hed) p.e.,6ytnvhrhuuuaoxy4dhzlgo,2003,37,233266,0.5479999999999999,0.00016,0.8640000000000001,0.00262,0.0354,0.5,-6.257999999999999,0.0557,95.569,1,4,energetic
+blame,blame,manse,3tszprzsekl1dffpd1jdof,2019-06-26,53,180937,0.612,0.619,0.68,0.0,0.0786,0.346,-4.925,0.0346,127.909,0,4,energetic
+blaster,blaster,marc benjamin,1fmzr4dd2me0ixgind9foc,2018-11-23,0,159523,0.667,0.0326,0.857,0.464,0.27,0.301,-4.729,0.0468,125.946,2,4,energetic
+bloodbuzz ohio,bloodbuzz ohio,soak,2pfkahd8arhessxyjaou6g,2019-11-25,46,279967,0.441,0.715,0.268,1.49e-06,0.11,0.057,-8.173,0.0308,140.07299999999998,6,4,sad
+blow,blow,yves v,4nx11rjdh7aum8ezb73m1r,2017-05-15,0,165000,0.603,0.0186,0.902,0.6829999999999999,0.105,0.135,-5.979,0.0494,127.973,5,4,happy
+bortom träden,i blomstertid,erik reno,4cflaetdgeu4mfmnuapayl,2020-06-07,48,260564,0.446,0.8009999999999999,0.0586,0.85,0.0876,0.111,-26.416,0.0416,124.019,8,4,calm
+bottom of the sea,bottom of the sea,isaac elton,5otdnmpl1epr3tolyyric3,2017-07-11,48,242213,0.775,0.0068099999999999,0.66,0.171,0.22,0.425,-7.9289999999999985,0.0444,126.022,0,4,happy
+bottom of a bottle,shapeshifter,smile empty soul,1xzrmihtcvjpqk29mzm44g,2016-04-01,61,221826,0.537,0.00236,0.847,1.16e-06,0.0844,0.459,-5.207999999999998,0.0383,106.055,6,4,energetic
+bouquet with lilies,bouquet with lilies,la acacia,1j45uvywacngdz0jmkstup,2019-10-30,56,216607,0.621,0.716,0.345,0.921,0.091,0.113,-12.106,0.0295,117.683,0,4,calm
+breathe me,colour the small one,sia,7jqzzyjjlrpkrfygpkqsk6,2004-01-01,68,272800,0.552,0.0364,0.643,0.74,0.105,0.212,-7.36,0.0327,120.012,0,4,sad
+bruises,divinely uninspired to a hellish extent,lewis capaldi,4of7rzprpv1mwrbhp5raqg,2019-05-17,84,220492,0.736,0.946,0.308,0.0,0.186,0.361,-7.83,0.0677,111.202,4,4,sad
+butterfly,the gift of game,crazy town,4bggewlhgfrbrl7jbhc8ec,1999-11-04,71,216733,0.736,0.00132,0.8109999999999999,0.0001419999999999,0.107,0.609,-4.17,0.081,103.502,9,4,happy
+bye bye little house,bye bye little house,ella van der woude,7aqkjpzlgvbkvtdyoj7yvk,2020-01-03,30,202405,0.31,0.985,0.0313,0.94,0.263,0.182,-23.55,0.0325,92.857,10,4,calm
+california dreamin',if you can believe your eyes and ears,the mamas & the papas,63rva3tbizr6x1yp5uwkfd,1966-03,50,157960,0.5539999999999999,0.628,0.667,0.0,0.0486,0.597,-10.226,0.0342,112.749,1,4,happy
+calm wilderness,calm wilderness,night sounds,44co96uhnfnq258r2vyble,2019-08-22,52,231723,0.186,0.8859999999999999,0.271,0.961,0.141,0.0684,-17.149,0.0449,115.896,7,4,calm
+car underwater,what to do when you are dead,armor for sleep,4ciliy3da3p9tq2nfqkeox,2005,52,228706,0.435,0.014,0.774,0.0,0.127,0.448,-5.052,0.0631,147.466,2,4,energetic
+chariot,b-sides and rarities,beach house,6db3uad2toajcgkpm3zizo,2017-06-30,42,316507,0.374,0.6629999999999999,0.426,0.607,0.0886,0.0902,-7.395,0.0315,102.174,10,4,sad
+city lights,city lights,marlies du mosch,5oxyhotdy7y789r3uqchab,2020-07-03,26,226266,0.341,0.983,0.0582,0.924,0.097,0.0514,-23.103,0.0472,83.05,8,4,calm
+cleansing,cleansing,jacco wynia,6u1ymcw9mtk9mpgy8xdveb,2020-05-29,36,304217,0.18,0.956,0.0754,0.926,0.11,0.0366,-26.645,0.0346,71.675,9,4,calm
+clear skies,clear skies,dhyana thomas,7bkmzyxvyzgmvnhirdcmjy,2019-04-26,51,162085,0.421,0.94,0.136,0.89,0.113,0.0505,-23.521,0.0305,110.036,11,4,calm
+click click boom,every six seconds,saliva,1lmvgl3030w3mgmrrd2hcm,2001-01-01,0,252400,0.607,0.00259,0.935,0.000221,0.195,0.51,-2.918,0.0506,95.97,6,4,energetic
+cold arms,wilder mind,mumford & sons,7kpz9isu48poykpaab0wir,2015-05-01,0,169906,0.431,0.815,0.144,1.1e-06,0.124,0.0491,-12.07,0.039,137.683,11,4,sad
+cold nights,cold nights,camo columbo,1q3aolcoawd8gpm9wp7shi,2020-01-03,51,189813,0.941,0.321,0.421,9.34e-05,0.0967,0.787,-7.917999999999998,0.0583,107.011,11,4,sad
+cold as stone (feat. charlotte lawrence) - lipless remix,cold as stone (remixes) (feat. charlotte lawrence),kaskade,6chzg1omxz9vn3mqcr4cnf,2018-05-04,57,228666,0.619,0.237,0.6629999999999999,0.0,0.111,0.142,-6.937,0.0366,123.93,7,4,energetic
+colgando,siesta,barulinho,2dvvmxdwby0u7vjcjojvh9,2020-07-31,36,268800,0.5670000000000001,0.948,0.39,0.966,0.0802,0.133,-13.701,0.0301,99.997,0,4,calm
+collapse into light,collapse into light,evin iris,3jp962jolan9p4wcddx4my,2019-10-18,55,179500,0.305,0.933,0.229,0.904,0.104,0.0562,-18.329,0.0334,121.599,1,4,calm
+coming home,coming home,zoe connelly,30acotgbj1pqzs1erzfzku,2019-12-11,51,172818,0.198,0.8540000000000001,0.139,0.856,0.0773,0.106,-18.72,0.031,82.405,5,4,calm
+coming undone,coming undone,korn,261qau5pamyyv0kpr0vc49,2005,0,199773,0.696,0.000855,0.677,0.000247,0.0646,0.551,-4.178,0.0554,150.125,2,4,energetic
+count on you - atfc's c-thru remix,count on you (atfc's c-thru remix),autoerotique,7gl2sovjxs8qvlx0cuadeq,2018-07-16,42,235594,0.825,0.00735,0.925,0.8079999999999999,0.057,0.5670000000000001,-7.502000000000002,0.0463,123.025,4,4,happy
+crash,crash,chris malinchak,1fxlhqcyaiw6kuuytxdtai,2018-03-07,57,232981,0.6890000000000001,0.000455,0.456,0.882,0.07,0.238,-12.307,0.0339,126.0,2,4,happy
+crazy,st. elsewhere,gnarls barkley,1vxw6ayjls2oq3gw0dujao,2006-04-24,77,177466,0.855,0.0505,0.5870000000000001,0.00714,0.105,0.64,-4.589,0.0336,111.97,8,4,happy
+creep,the best of,radiohead,1yttesrau6iro2itvdwtpv,2008-04-07,0,238640,0.515,0.0102,0.43,0.0001409999999999,0.129,0.104,-9.935,0.0369,91.841,7,4,sad
+crossing,crossing,the tides,08q4gyxnb8ak1zwhnjwova,2020-03-19,40,153103,0.542,0.935,0.189,0.91,0.0932,0.0755,-16.57,0.0398,116.0,0,4,calm
+crystal shores,crystal shores,dean valio,0guagl4nhshy1dzhikqkku,2019-05-24,51,170958,0.482,0.958,0.0257,0.923,0.104,0.144,-26.303,0.0323,109.98,9,4,calm
+curiosity,curiosity,beau projet,3wedwvasce1ecbferseqnc,2019-03-21,60,155820,0.43,0.985,0.256,0.867,0.106,0.173,-22.088,0.0641,133.955,2,4,calm
+curious morning,curious morning,michael orvind,5lzyyni8offwkix1p9zdqp,2020-07-14,36,182222,0.391,0.969,0.231,0.954,0.116,0.0882,-17.0,0.0363,107.981,3,4,calm
+daar gaat ze,clouseau30,clouseau,7kmpc3vgxk3o9xup3gwaj0,2017-09-01,5,227906,0.639,0.78,0.4920000000000001,0.0,0.117,0.6659999999999999,-8.497,0.0288,87.03299999999999,5,4,happy
+dancing on my own,dancing on my own,calum scott,02wacdrrpm4zlp8h7x6bnq,2016-06-03,9,260004,0.608,0.851,0.174,1.92e-05,0.0855,0.193,-8.796,0.0332,112.175,1,4,sad
+dancing with your ghost,dancing with your ghost,sasha sloan,1tqxiltqoz5xxyfcbaesqq,2019-06-28,78,197732,0.629,0.7609999999999999,0.327,2.9600000000000005e-05,0.103,0.381,-8.285,0.029,74.953,11,4,sad
+dancing with an astronaut,dancing with an astronaut,ellie rose,43celhkblhvdsz0cpetpij,2019-09-27,41,168141,0.516,0.487,0.407,0.0235,0.252,0.17,-7.841,0.0283,74.89399999999998,9,4,sad
+darkest hour,darkest hour,low roar,36i7pi5g6xzjm3bcgqmlye,2019-10-18,29,179520,0.6940000000000001,0.612,0.359,0.738,0.1369999999999999,0.348,-16.105,0.0408,125.077,9,4,sad
+dawning,dawning,light of sun,56ag77kiufvxjha1gdobsq,2019-08-26,58,206419,0.526,0.64,0.471,0.8170000000000001,0.096,0.286,-11.965,0.0424,119.972,0,4,calm
+de fléche,de fléche,les manger tous,5vymvj2wullnmeqqrgwqx8,2019-09-30,52,233062,0.435,0.6679999999999999,0.333,0.8340000000000001,0.084,0.074,-15.885,0.0308,90.902,8,4,calm
+den inre skogen,den inre skogen,thomas jackson,0zl6knmirt1pegzvazy9t1,2020-01-30,55,229657,0.532,0.924,0.382,0.61,0.134,0.0455,-17.683,0.0543,127.038,9,4,calm
+dew drops,vortex,pieter de graaf,0nnfgldnuzh6qkuvhzpb0r,2019-10-11,50,335636,0.27,0.939,0.0384,0.936,0.1,0.0708,-24.513,0.0361,59.81,11,4,calm
+dive,the soft cavalry,the soft cavalry,5tvkwugywzfvf5hq9uysvf,2019-07-05,0,255384,0.434,0.0418,0.531,0.00021,0.0941,0.0935,-10.05,0.0305,156.155,2,4,sad
+do it again,do it again,steve aoki,5yzzy7hevww3rdntqm5mg1,2019-04-19,0,176129,0.701,0.119,0.95,0.00355,0.221,0.477,-3.026,0.0675,124.002,9,4,energetic
+dolerme,dolerme,rosalía,2rel9pauza4putbjqw1frf,2020-03-24,68,143975,0.545,0.785,0.478,0.00278,0.123,0.318,-7.035,0.0559,173.74599999999995,8,4,sad
+don't stop,rumours,fleetwood mac,4sxu3luz1eb4jwwbkqw43y,1977-02-04,0,192133,0.6859999999999999,0.0398,0.632,2.2e-06,0.0686,0.88,-11.433,0.0353,118.965,9,4,happy
+don't you (forget about me) - remastered,celebrate (greatest hits),simple minds,0a4pzueptciqvva5m7r0m1,2013-03-25,11,263973,0.602,0.00398,0.784,0.0852,0.0931,0.918,-7.976,0.0313,133.019,11,4,happy
+down on the corner,willy and the poor boys (40th anniversary edition),creedence clearwater revival,4ymlw13puuo7o3jkiwlkas,1969-11-02,0,166280,0.831,0.594,0.544,0.00389,0.0736,0.856,-9.288,0.0837,108.177,0,4,happy
+dragula,hellbilly deluxe,rob zombie,6nm8h73ycdg2sacnzv8pof,1998-01-01,70,222826,0.591,8.740000000000001e-05,0.963,0.000107,0.0781,0.609,-6.489,0.0531,125.03,0,4,energetic
+dreams tonite,antisocialites,alvvays,0drvclqbn9znq295sx76vc,2017-09-08,62,196026,0.511,0.0108,0.622,4.51e-06,0.127,0.425,-5.727,0.0242,99.934,2,4,sad
+drifting,drifting,eroded sky,157kvk58qr04aiudv2aqwd,2020-04-23,56,194571,0.616,0.71,0.202,0.6779999999999999,0.0871,0.0773,-14.144,0.0383,139.857,11,4,calm
+duck and run,the better life,3 doors down,0s8osdxw96cl290pcsi2mx,2000,43,230600,0.524,0.0149,0.919,7.049999999999999e-05,0.131,0.848,-5.505,0.0436,87.931,4,4,energetic
+dust on the ground,flaws,bombay bicycle club,2sbionpluq0bvxyrggdgcz,2010-01-01,0,243752,0.605,0.757,0.319,0.00237,0.116,0.273,-10.892,0.0306,109.603,10,4,sad
+eagle,eagle,ansatz der maschine,7ui4m3uaky2wwh1mjzayzo,2019-12-13,28,226400,0.339,0.937,0.142,0.91,0.0847,0.121,-21.613000000000003,0.0416,109.98,10,4,calm
+easy lover,chinese wall,philip bailey,7ini4pmpg4ie0smx5y4kvf,1985-03-20,68,304506,0.7490000000000001,0.0674,0.6990000000000001,0.00192,0.0763,0.935,-13.108,0.0371,128.904,1,4,happy
+eden - hunted version,hunted,anna calvi,5zfsg3fna03fcuzzw2a9fr,2020-03-06,35,257815,0.158,0.965,0.0963,0.105,0.0752,0.0395,-18.225,0.0398,71.012,0,4,sad
+edge of seventeen,crystal visions...the very best of stevie nicks,stevie nicks,2id8e4wvczfkhb4lhi7np3,2007-03-27,70,329680,0.59,0.277,0.828,5.57e-06,0.0868,0.636,-6.28,0.0439,111.353,0,4,happy
+emotions in motion,emotions in motion,jaakko eino kalevi,4umpeqttlhboxdpepak8qr,2018-08-01,23,256906,0.6509999999999999,0.199,0.503,0.644,0.0781,0.5579999999999999,-10.906,0.0323,133.04399999999998,0,4,sad
+enemy,seasons - clean,sevendust,3eqyyjmyuhglmtcp4c4isx,2003-10-07,43,183400,0.5720000000000001,0.000181,0.99,0.000295,0.118,0.397,-1.992,0.066,106.912,1,4,energetic
+escaping time,floating,benjamin martins,7jrsipcfkwhdzxwii8jz7v,2019-10-21,60,200346,0.32,0.64,0.256,0.862,0.112,0.191,-17.98,0.0445,115.011,10,4,calm
+essential attitudes,honey,peals,0t3uhut7jmci5jcgyimawm,2016-09-16,50,217987,0.444,0.449,0.4970000000000001,0.722,0.081,0.25,-12.601,0.0383,99.093,5,4,calm
+every kinda people,double fun,robert palmer,5jkufqv3wlplyoz0puja09,1978-01-01,0,199200,0.631,0.248,0.547,0.000119,0.0523,0.962,-12.626,0.036,94.533,6,4,happy
+everyday people,r&b: from doo-wop to hip-hop,various artists,7ll2lmwntzocf5hneudngn,1999-10-08,63,139506,0.813,0.245,0.619,0.0151,0.113,0.774,-8.203,0.0294,114.58,7,4,happy
+falling,fine line,harry styles,1zmicix7xsabfajlezwmcp,2019-12-13,87,240133,0.5670000000000001,0.8390000000000001,0.267,1.46e-06,0.089,0.0592,-6.502000000000002,0.0299,110.011,4,4,sad
+falling asleep,falling asleep,tiz mcnamara,1funuekkzz9mgt3bmycrff,2019-10-25,53,202400,0.537,0.899,0.201,0.00163,0.077,0.196,-12.948,0.033,134.08700000000002,2,4,sad
+falling away from me,issues,korn,2f6ffz4w8z3ejpsxpotvo5,1999-11-09,70,270920,0.468,0.00014,0.769,0.00124,0.271,0.17,-7.0360000000000005,0.041,104.102,4,4,energetic
+fantasy - r3hab remix,fantasy (r3hab remix),sofie tukker,3igmera58mmtyt1mbkukrf,2019-04-19,19,188346,0.7,0.113,0.7509999999999999,0.00129,0.241,0.246,-3.853,0.0566,124.027,4,4,energetic
+feels like flying,feels like flying,elementaries,3mmd2mgveidafmfvcb9wsc,2020-06-15,40,198077,0.416,0.882,0.11,0.873,0.116,0.347,-13.776,0.0423,120.024,11,4,calm
+fields of blossom,fields of blossom,martèn legrand,0bekkhhqccnx6vlmtshoit,2020-04-24,32,197800,0.42,0.98,0.135,0.941,0.0974,0.155,-20.518,0.0815,118.9,4,4,calm
+fix you,fix you,valentin,0x4cfzosdqvq5qtggwzfux,2019-11-22,47,240000,0.5,0.6709999999999999,0.185,0.0,0.0827,0.159,-13.209,0.0302,140.148,1,4,sad
+fleur février,fleur février,jacco wynia,16a82oajqwawjdm8k5hcdm,2020-02-07,34,253904,0.428,0.985,0.0517,0.945,0.11,0.13,-21.74,0.0548,111.311,3,4,calm
+floating sunbeams,floating sunbeams,michael orvind,7hjzmjqfrlypzslxc7kn8n,2020-07-07,33,159292,0.205,0.98,0.202,0.85,0.128,0.086,-15.952,0.0427,113.057,1,4,calm
+flowing,flowing,lucas delphy,06g5mnuma3clbnwjfs8zis,2020-05-20,39,131116,0.2,0.8959999999999999,0.138,0.929,0.207,0.138,-20.417,0.0301,71.631,0,4,calm
+flying by candlelight (abgt300) - above & beyond club mix,group therapy 300 live from hong kong (abgt300),above & beyond,0tew7ordkd2mjjqh507ni4,2018-10-05,47,364743,0.532,0.000312,0.664,0.0427,0.303,0.075,-9.804,0.0603,128.97299999999998,1,4,energetic
+focus,focus,light of sun,3dz7dfole5u2xegizfjego,2019-06-03,51,190526,0.273,0.238,0.161,0.481,0.133,0.0503,-17.727,0.053,113.89,4,4,calm
+follow me,follow me,andre ehmann,7d44sl4znfm5hz6ltuvqbi,2019-07-19,51,204624,0.475,0.995,0.109,0.948,0.127,0.405,-29.839,0.0303,99.008,2,4,calm
+found,found,martin gauffin,2t2eemw8x3glkvje1gxpbc,2019-08-23,52,159049,0.517,0.901,0.397,0.867,0.11,0.195,-14.281,0.0289,100.005,0,4,calm
+free,together,third party,6s2t9kunynzksg5fa1lidn,2019-03-15,50,228971,0.481,0.0238,0.922,0.00185,0.0971,0.246,-4.17,0.064,127.931,3,4,happy
+freya,cantec de leagane / freya,dave pad,0aatrekfgjglih00lnpkm7,2017-03-24,46,284878,0.64,0.000211,0.667,0.899,0.0748,0.288,-10.19,0.0379,122.994,11,4,happy
+from yesterday,a beautiful lie + 30 seconds to mars,thirty seconds to mars,4ogyt8hqlv6idcepscskh3,2007-05-15,0,245933,0.467,0.00578,0.8759999999999999,0.00592,0.0453,0.131,-4.841,0.0693,135.055,10,4,energetic
+frozen,frozen,ron adelaar,4nteevqnnghbwwo6k7oprh,2020-06-05,45,166000,0.352,0.986,0.0246,0.928,0.107,0.174,-27.226,0.0419,78.809,9,4,calm
+fête sous les étoiles,suite,biba dupont,55ux9bdgw3qtvfad3pxstq,2020-05-01,34,184000,0.312,0.994,0.00811,0.961,0.1,0.0703,-30.381,0.0389,115.486,1,4,calm
+game time (feat. ninja),game time (feat. ninja),3lau,229mm2st7snw43nt8adlg8,2018-11-30,52,156631,0.534,8.05e-05,0.957,0.758,0.266,0.52,-4.025,0.0455,95.046,1,4,happy
+gasoline,disclaimer ii,seether,4e7yuouxvwpbk1q2kvlgz8,2004-01-01,39,168560,0.478,4.650000000000001e-05,0.942,0.0336,0.061,0.726,-2.71,0.08,173.515,1,4,energetic
+get lucky (feat. pharrell williams & nile rodgers) - radio edit,get lucky (feat. pharrell williams & nile rodgers) [radio edit],daft punk,2foc5q5nqnioscnqttzhof,2013-04-19,78,248413,0.794,0.0426,0.8109999999999999,1.07e-06,0.101,0.862,-8.966000000000003,0.038,116.047,6,4,happy
+getting away with murder,getting away with murder (explicit version),papa roach,3yqoptassglssuzybz9blf,2004-01-01,0,191239,0.544,0.000115,0.97,3.34e-05,0.238,0.349,-3.78,0.0532,103.909,1,4,energetic
+ghostride,ghostride,crumb,6mnyxjuk0cdzqem4er5jgu,2019-05-09,0,126120,0.664,0.511,0.352,0.8059999999999999,0.109,0.45,-9.426,0.0278,87.054,2,4,sad
+glaciers,bloom,lights & motion,2no1a7zumabgxz45jma9gw,2018-02-02,53,176373,0.0789,0.733,0.16,0.7859999999999999,0.0943,0.0409,-18.144,0.0362,56.449,7,4,calm
+gone my way - khomha remix,gone my way (khomha remix),morgan page,08hghm2hjpcxjux9yuhcg0,2019-05-10,46,168750,0.547,0.00129,0.895,0.107,0.288,0.0353,-7.081,0.0683,128.02200000000002,5,4,energetic
+good vibrations - remastered,good vibrations 40th anniversary,the beach boys,2of7fzhijbzjeexz3d0ku4,2006-01-01,66,217746,0.403,0.387,0.495,8.03e-06,0.147,0.38,-6.888,0.0312,132.912,10,4,happy
+goodbye,the devil's walk,apparat,4vxauj96w2jw9uotkhu51p,2011,69,256786,0.484,0.406,0.457,0.6459999999999999,0.297,0.187,-13.976,0.0456,87.15899999999998,1,4,sad
+goshen,east harlem,beirut,5rlzgazostoc3fqhmgchvk,2011-06-14,0,200146,0.284,0.848,0.262,0.00483,0.0966,0.107,-9.869,0.028,98.66,11,4,sad
+gracewood (revisited),in between (a-side),steven vrancken,1tspceuusxyz7fiaduy3x1,2020-05-01,11,139050,0.353,0.969,0.0544,0.915,0.106,0.158,-22.657,0.0408,74.883,8,4,calm
+green street,green street,alexander motovilov,4kjbflffccnwkbgwvybsxz,2020-07-31,27,133125,0.373,0.978,0.191,0.944,0.0737,0.411,-24.099,0.0302,96.682,7,4,calm
+groove is in the heart,rhino hi-five: deee-lite,deee-lite,2uvluddklevak5pxgc7baa,2005-04-19,65,231786,0.6940000000000001,0.0153,0.8809999999999999,0.0196,0.0851,0.924,-4.053,0.0701,121.554,1,4,happy
+groovin,groovin,sir roy,3ktuaf5m4hict6n7zb323h,2018-02-10,50,267152,0.845,0.0447,0.7440000000000001,0.343,0.13,0.6940000000000001,-9.539,0.0567,126.0,10,4,energetic
+handful of redemption,tomorrow come today,boysetsfire,3ekjqtjodwy5ylugtkoxdo,2003-01-01,34,240253,0.508,0.00022,0.947,0.0315,0.0784,0.419,-3.684,0.0531,163.731,3,4,energetic
+happy ending,body and soul,joe jackson,1qv9twdpxh50dplgwd4bnh,1984-01-01,51,218466,0.635,0.0973,0.8079999999999999,0.0,0.141,0.726,-5.026,0.0262,131.377,9,4,happy
+happy together,happy together,the turtles,1jo1xltvc8mwhioe3yacl0,1967,74,176293,0.584,0.55,0.3670000000000001,1.3800000000000003e-05,0.0818,0.588,-9.638,0.0328,120.175,6,4,happy
+harvest love,harvest love,tash sultana,2kk7oublfkd7tt9tjwgw7z,2018-07-13,41,365928,0.276,0.314,0.251,6.05e-06,0.122,0.18,-9.078,0.0295,95.705,2,4,sad
+hash pipe,weezer (green album),weezer,2mpmfjvq0v27gvqe5b6ndn,2001-05-15,65,186533,0.578,0.000121,0.882,0.479,0.284,0.623,-6.354,0.044,125.603,7,4,energetic
+heaven - david guetta & morten remix,heaven (david guetta & morten remix),avicii,4qaugy6k7c3ioahgwz52r7,2019-08-23,66,215238,0.5720000000000001,0.00292,0.934,0.0198,0.105,0.204,-5.053,0.0446,125.948,6,4,happy
+heavenly,heavenly,cigarettes after sex,0m6tljxixptslrmqpwbror,2019-08-28,3,288594,0.539,0.617,0.4320000000000001,0.6920000000000001,0.11,0.133,-9.298,0.0249,105.196,8,4,sad
+heavy,home,collective soul,3vqt0fet6i52anhu7malip,2006-02-07,55,177213,0.535,0.000919,0.8540000000000001,0.00149,0.0676,0.618,-6.519,0.0368,106.929,1,4,energetic
+here comes the sun - remastered 2009,abbey road (remastered),the beatles,6dgnyiexmhdcikdznndmm2,1969-09-26,83,185733,0.557,0.0339,0.54,0.00248,0.179,0.394,-10.484000000000002,0.0347,129.171,9,4,happy
+holding on,scary kids scaring kids,scary kids scaring kids,48h6uwubyeezuixwb5f69k,2007-09-25,45,261240,0.421,0.000442,0.935,0.000212,0.1,0.455,-5.153,0.0697,165.02,8,4,energetic
+hollowman,trapt,trapt,3modqpj30w4wk96bbwljk9,2002-11-05,36,303013,0.502,0.000214,0.92,0.0,0.306,0.182,-4.588,0.0611,159.884,2,4,energetic
+home,home,lucas & steve,3qsp2uatcdcrrlknjtupj8,2018-07-20,46,189834,0.544,0.00851,0.932,0.00811,0.157,0.337,-5.816,0.0679,125.954,10,4,energetic
+"honey, this mirror isn't big enough for the two of us","i brought you my bullets, you brought me your love",my chemical romance,5gnvtfd1l6qrpgof0wfo0q,2002,54,231096,0.383,0.000328,0.946,1.13e-06,0.0537,0.534,-8.122,0.0789,108.591,1,4,energetic
+how bizarre,how bizarre,omc,6rt3pxdeqoa7m6tk502dna,1996,0,224053,0.784,0.261,0.675,1.4e-06,0.293,0.8540000000000001,-7.718,0.049,124.908,0,4,happy
+how to fight,how to fight,eartheater,6rubsxfnfc6rafdfm9yb3r,2020-08-05,38,211295,0.404,0.7020000000000001,0.249,0.000911,0.171,0.284,-15.880999999999998,0.0472,120.221,7,4,sad
+human connection,human connection,cult solo,1v17xhhzgigz6h14rinhdi,2017-11-02,49,328040,0.6,0.0938,0.882,0.912,0.0542,0.347,-8.394,0.0311,120.008,5,4,happy
+humans (let me love you),humans (let me love you),sick individuals,1ib1gfstgmeecjscmaj0lw,2019-05-24,59,161048,0.584,0.21,0.835,1.49e-06,0.126,0.371,-3.663,0.0584,128.106,7,4,happy
+hunter,hunter,anna calvi,2nrzo1y3t6uavcz1i8dmqm,2018-07-31,22,251693,0.439,0.316,0.454,0.000696,0.0901,0.388,-8.251,0.028,97.97,5,4,sad
+hypnagogia well,hypnagogia well,monocle twins,2jpl7mfomzrnbasj790bfq,2019-10-17,50,222000,0.545,0.7709999999999999,0.253,0.922,0.108,0.0529,-17.953,0.033,115.848,2,4,calm
+i can't help (with sarcastic sounds),i can't help (with sarcastic sounds),shoffy,1odyu7mdo94yduvfzpapvp,2020-02-07,47,121250,0.7140000000000001,0.393,0.4,0.000718,0.109,0.318,-8.264,0.0618,81.97399999999998,2,4,sad
+i don't trust that bird of prey,requiescence,random forest,33gvbwdqw7arx0y2zm7qm3,2019-10-04,51,210500,0.52,0.605,0.305,0.899,0.16,0.0389,-14.38,0.0322,120.109,7,4,calm
+i stand alone,"good times, bad times - ten years of godsmack",godsmack,6pgjtjaexykwwxbmcoyvly,2007-01-01,0,243840,0.211,4.51e-05,0.921,0.0,0.1,0.351,-4.468,0.0729,171.9,0,4,energetic
+i took a pill in ibiza,"at night, alone.",mike posner,1pikcvhlmhpvl7ipjx9djk,2016-05-06,0,280800,0.636,0.618,0.319,1.7e-06,0.125,0.378,-10.065,0.0718,74.109,10,4,sad
+i was made for lovin' you,dynasty (remastered version),kiss,2zscy3p1qzpjyscwa6nriu,1979-03-23,1,271240,0.768,0.213,0.852,7.45e-05,0.0723,0.867,-6.215,0.038,128.374,4,4,happy
+i would die 4 u,purple rain,prince,6fbwve6udydnrqwqo06if8,1984-06-25,61,178986,0.731,0.0862,0.75,0.000388,0.202,0.639,-10.457,0.0321,135.406,2,4,happy
+i dine øjne,i dine øjne,efterklang,07htwtiszvnqfdl38sicin,2019-08-21,0,297249,0.67,0.762,0.417,0.0214,0.104,0.0708,-12.553,0.0404,121.13,8,4,sad
+i've been fine,lovelaws,tt,0kypbz6paxzpcaobqxhahu,2018-05-18,23,241079,0.5479999999999999,0.13,0.569,0.00134,0.0584,0.265,-6.215,0.039,75.082,11,4,sad
+if you believe,unification,yonder dale,0qurrfrhz1rgbdpptx7llv,2020-05-22,37,183428,0.575,0.937,0.202,0.441,0.103,0.142,-18.544,0.0444,139.94299999999998,8,4,calm
+if you think it's love,cheap queen,king princess,3iil6mernpfnx1bny9sfvm,2019-10-25,57,203946,0.4320000000000001,0.807,0.34,0.0,0.0864,0.449,-7.977,0.0824,135.172,5,4,sad
+images,images,delange,4sqihhgpprozndw5zmx36p,2020-06-05,42,163666,0.387,0.993,0.00579,0.929,0.136,0.1369999999999999,-21.823,0.0439,111.991,7,4,calm
+in this moment,in this moment,lucas delphy,7forbaxm1qwuwbyo7rtz42,2019-05-27,51,158666,0.479,0.7709999999999999,0.221,0.856,0.101,0.089,-19.689,0.0325,115.965,6,4,calm
+infinite sustain,infinite sustain,amaranth cove,5aciickjktlkrrapsrkqy5,2019-10-04,57,149000,0.529,0.8,0.214,0.907,0.109,0.0903,-19.268,0.0315,124.069,6,4,calm
+ingénue,ingénue,eline moss,6mgkp4yo57gtsmc3fjlywm,2019-11-18,55,158176,0.283,0.993,0.122,0.905,0.0927,0.112,-23.074,0.0285,83.74600000000002,9,4,calm
+inside the fire,disturbed,disturbed,1xhcapgiorrgvlbnwe7x4n,2010-04-26,12,231573,0.463,0.000233,0.962,0.109,0.0906,0.66,-6.43,0.0704,94.003,7,4,energetic
+into black,blouse,blouse,5d8pkjxodlyx2sofr6rcsm,2011-10-31,47,208237,0.705,0.463,0.6809999999999999,0.8390000000000001,0.123,0.7070000000000001,-8.277999999999999,0.0258,114.003,9,4,sad
+isonoe,gliese,job roggeveen,4sp8bzizkgvq6jhospf17a,2020-02-28,23,159045,0.365,0.983,0.119,0.919,0.112,0.249,-20.962,0.0405,147.57299999999995,7,4,calm
+it's my fault,it's my fault,lolo zouaï,3qp17szh39zvczqnopq9be,2020-04-24,54,195986,0.647,0.815,0.235,1.7800000000000002e-05,0.233,0.0382,-10.123,0.0389,129.85,8,4,sad
+"john wayne gacy, jr.",illinois,sufjan stevens,2gfbh7nnefsebozzdb5d2c,2005-07-05,50,199920,0.463,0.917,0.179,1.73e-05,0.12,0.183,-14.852,0.0402,80.747,0,4,sad
+jupiter 4,jupiter 4,sharon van etten,64birkpw9f4xgzolaiobcp,2018-11-27,39,314080,0.475,0.0168,0.498,0.4920000000000001,0.1369999999999999,0.0592,-10.609000000000002,0.0303,88.882,10,4,sad
+just look at you,432 water crystals,369,62x7ld1sa8rhl4zrtsvfhf,2020-02-21,59,187385,0.5579999999999999,0.985,0.249,0.925,0.103,0.111,-14.715,0.0303,94.991,7,4,calm
+just the two of us (feat. bill withers),anthology,"grover washington, jr.",1ko2lvn0vkgul9zru0qslt,1985,70,237106,0.8029999999999999,0.5760000000000001,0.488,0.0609,0.0763,0.624,-9.303,0.0803,95.771,1,4,happy
+kangaroo (remastered),it'll end in tears (remastered),this mortal coil,1hdiqeol9mxojnsz33vovw,1984,47,209093,0.19,0.768,0.1669999999999999,0.1639999999999999,0.126,0.0491,-11.298,0.0291,169.636,3,4,sad
+kaolnite,kaolnite,burgundy skies,4fitbshkbcgkwixn1idie5,2019-03-15,50,180689,0.247,0.622,0.231,0.87,0.0878,0.0485,-19.639,0.0328,174.014,1,4,calm
+keep going,keep going,mark milan,4hhup3yzfajcc7o0dnbwcq,2019-12-20,31,200527,0.385,0.994,0.305,0.949,0.109,0.172,-12.044,0.0466,74.024,3,4,calm
+kids in the dark,kids in the dark,bat for lashes,2dqq3ymx6nljkxhrjy5w4j,2019-06-10,35,208613,0.47,0.524,0.526,0.00557,0.0856,0.257,-10.987,0.0307,138.97799999999998,1,4,sad
+kinky living,clockdust,rustin man,4emowr7lughvru6rn97upi,2020-03-20,19,285000,0.526,0.7090000000000001,0.493,0.606,0.0993,0.574,-9.728,0.0428,154.071,2,4,sad
+kinky love,flesh balloon,pale saints,3uz3k1ctq6moidqrddkhxo,1991-06-24,46,244240,0.376,0.133,0.277,0.0,0.0643,0.309,-18.291,0.0357,178.81400000000005,1,4,sad
+kiss you all over - single edit,kiss you all over,isaac elton,1whkiswzw9zgcoldbybhfl,2017-10-03,47,240383,0.696,0.0578,0.8240000000000001,8.56e-06,0.158,0.667,-5.67,0.0538,126.023,0,4,energetic
+kite,kite,yume,6a8u8dihiuewrprq2oocvu,2020-02-07,35,110714,0.534,0.973,0.019,0.8959999999999999,0.108,0.157,-26.071,0.0413,115.917,7,4,calm
+klangfall - piano version,klangfall (piano version),joep beving,4pwowm3xmkryghsijdf61f,2020-01-17,42,353007,0.394,0.993,0.0807,0.944,0.0964,0.0394,-25.987,0.0318,124.904,0,4,calm
+la luz,chapter i,city of the sun,6iq6akhlgjqtrpziqfotyk,2019-11-15,49,303120,0.5589999999999999,0.0463,0.441,0.763,0.115,0.389,-13.862,0.0398,94.014,7,4,calm
+last time,last time,johnning,7v3tuzpub1qd490tivddwf,2020-05-15,54,202480,0.628,0.111,0.5870000000000001,0.0,0.156,0.4,-5.195,0.0441,140.01,7,4,sad
+late in the evening,one-trick pony,paul simon,2h23bjg8b3bcd47hbu6bhg,1980-08-01,60,242706,0.72,0.199,0.88,0.0246,0.0865,0.961,-8.988,0.0406,118.623,5,4,happy
+laugavegur,laugavegur,dreyma,4nzsgfwgyuoywcbx61jy6j,2018-10-09,56,188795,0.515,0.54,0.408,0.769,0.0916,0.308,-12.688,0.0385,115.002,7,4,calm
+lay your head on me (feat. marcus mumford),lay your head on me (feat. marcus mumford),major lazer,0ob9964bp22bmok0dmxlzb,2020-03-26,61,199895,0.6579999999999999,0.0471,0.765,1.02e-05,0.0936,0.222,-7.002000000000002,0.0469,119.974,11,4,happy
+let it go,chaos and the calm,james bay,13hvjjwuzfawilh2qujksp,2014-12-15,73,260533,0.546,0.818,0.311,1.65e-05,0.107,0.246,-10.396,0.0288,147.464,1,4,sad
+let it out,xy chelsea (original soundtrack),jehnny beth,72rhjyz3i7k90hk1ef1f0c,2019-06-07,38,213173,0.596,0.381,0.528,0.8590000000000001,0.205,0.15,-12.481,0.0289,117.041,2,4,sad
+light year,light year,evan michael brown,1c2jiknmjv8fazlrgwobbj,2019-07-28,51,234000,0.301,0.99,0.189,0.893,0.106,0.0379,-16.072,0.0351,139.894,9,4,calm
+light years,light years,the national,0dckspzvwa64mvnoces49q,2019-04-04,0,213373,0.544,0.95,0.316,0.7,0.0978,0.173,-11.666,0.0307,124.989,4,4,sad
+lights go down,lights go down,mike candys,2shd8wlebq8fdg6chqopkc,2019-10-18,57,155520,0.741,0.00254,0.812,0.104,0.301,0.146,-5.356,0.039,124.991,1,4,energetic
+like the way i do,greatest hits - the road less traveled,melissa etheridge,38txecvuuqf3peopvnerv6,2005,0,324760,0.591,0.0213,0.931,0.0,0.122,0.6729999999999999,-4.84,0.0557,101.551,2,4,happy
+limitless,limitless,lucas delphy,5qgnwi8u3o9mqg7rr3yopj,2019-10-31,54,165685,0.238,0.404,0.191,0.888,0.107,0.0365,-20.242,0.0351,140.282,7,4,calm
+linger,linger,no vacation,7zwq9qz0vak75qbtglz0wb,2019-04-01,40,262375,0.54,0.0122,0.574,0.000658,0.226,0.225,-7.006,0.0232,94.975,7,4,sad
+listen to the music,toulouse street,the doobie brothers,7ar4g7ci11gpt6sfh9cgz5,1972,77,227266,0.645,0.221,0.598,3.53e-06,0.0721,0.913,-13.18,0.0335,105.929,1,4,happy
+little lion man,sigh no more (benelux edition),mumford & sons,1qtixxvagxwe6gf8pbwave,2012-11-16,46,247000,0.515,0.0244,0.496,7.24e-06,0.0895,0.442,-8.017999999999999,0.0275,138.61,5,4,happy
+little talks,my head is an animal,of monsters and men,2ihcavdnzmnhzwt0fvam7b,2012-01-01,78,266600,0.457,0.0206,0.757,0.0,0.146,0.417,-5.1770000000000005,0.032,102.961,1,4,happy
+little things,sixteen stone,bush,29irvqao62oke22tdamsnm,1994-12-06,0,264293,0.3670000000000001,0.000229,0.915,0.0,0.184,0.215,-5.452999999999999,0.0682,112.642,7,4,energetic
+living,reflection of youth,eera,4ytv5yzyal3lzkymjrxjse,2017-11-03,31,279826,0.46,0.14,0.59,0.591,0.112,0.212,-9.375,0.0327,118.008,6,4,sad
+london thunder,london thunder,foals,4gkoh2vad57fgeitzteauh,2015-08-24,37,254426,0.489,0.6409999999999999,0.357,0.333,0.0838,0.0388,-9.745,0.0259,92.009,6,4,sad
+lonely boy,what's wrong with this picture?,andrew gold,6wgmloeqd2k3rbxfhd0yup,1976,55,264893,0.588,0.0386,0.598,5.83e-05,0.107,0.866,-13.288,0.0296,123.724,9,4,happy
+long way down,long way down (deluxe),tom odell,1uvk6s6fpkrmji0itpgkec,2013-06-24,59,149773,0.3670000000000001,0.972,0.121,0.0322,0.0871,0.0926,-13.778,0.0335,132.244,6,4,sad
+lorelei,treasure,cocteau twins,1mwgbyzrmpxwablidw8tzg,1984-11-01,53,223573,0.387,0.000158,0.669,0.423,0.166,0.414,-11.187,0.0395,90.995,0,4,sad
+los feliz,los feliz,search for atlantis,0efoqjqkogwpeztzazsb6j,2019-05-27,49,166927,0.575,0.197,0.373,0.898,0.0753,0.123,-11.642,0.0279,74.975,11,4,calm
+losing you,human,aquilo,5afszu0b7ccayjtkbtntsq,2014-12-08,50,205859,0.383,0.63,0.446,0.0,0.0946,0.213,-8.693,0.0382,77.399,0,4,sad
+lost,lost,annelie,7nc2eopmnpdt2dkvniimsm,2020-06-05,64,161520,0.389,0.972,0.1,0.934,0.113,0.0676,-22.464,0.0358,133.839,10,4,calm
+lost moon,i can feel the night around me,nightlands,5qll4rxjw3mqbx8xvs75ts,2017-05-05,33,356125,0.448,0.328,0.591,0.708,0.111,0.303,-9.291,0.0327,145.482,0,4,sad
+love is a losing game,back to black,amy winehouse,4imbnbrqm9ralmlrrqfmor,2006-01-01,0,154160,0.48,0.317,0.561,0.0064099999999999,0.184,0.541,-5.874,0.027,164.791,0,4,sad
+lovely day,lean on me: the best of bill withers,bill withers,0acackohuwgfgy5cxvil4n,1994-08-09,67,255066,0.693,0.194,0.565,0.000175,0.0806,0.6920000000000001,-12.583,0.0345,97.937,9,4,happy
+lunar eclipse,lunar eclipse,marc torch,0n2x57zaddr0odixub64sx,2020-05-22,50,156473,0.632,0.224,0.469,0.8540000000000001,0.0902,0.316,-10.513,0.0307,128.0,11,4,calm
+mad about you,the magnificent tree,hooverphonic,5drk2kte2mrudv33ihwyrx,2000,62,223733,0.465,0.00109,0.8440000000000001,0.399,0.0865,0.155,-4.352,0.0379,170.358,1,4,happy
+make believe,make believe,quintino,56oqwzuaa8zmhqch3lcri3,2019-08-09,59,194531,0.5870000000000001,0.03,0.882,0.116,0.195,0.0653,-5.837999999999999,0.0427,127.97,0,4,energetic
+malibu,malibu,matthew harvey,3rlwtjekhemcfipvwmfozs,2019-08-14,50,150405,0.435,0.977,0.154,0.85,0.0728,0.0799,-21.451,0.0367,148.1,6,4,calm
+marbles,the first tindersticks album,tindersticks,4ivwqtuwkg4jktgojx6t9v,1993-10-11,40,269866,0.49,0.0934,0.521,0.862,0.266,0.148,-9.601,0.0295,107.778,2,4,sad
+melancholé,melancholé,biba dupont,3sdkya8frhe3bmzspvprrq,2020-06-26,34,149647,0.369,0.996,0.0283,0.941,0.101,0.119,-25.76,0.0399,83.391,2,4,calm
+mercy - live,retrospective,hilary hahn,4bntwrokzb5e0y0k3lohsq,2018-01-19,0,326146,0.211,0.916,0.0838,0.41,0.102,0.0404,-20.882,0.0398,90.249,10,4,calm
+message in a bottle - remastered 2003,reggatta de blanc (remastered),the police,3bn4tg6rnnpy9gckghym4t,1979-10-02,1,290280,0.5770000000000001,0.0338,0.8079999999999999,1.33e-05,0.221,0.8690000000000001,-7.04,0.039,151.00799999999995,1,4,happy
+mil sonidos,mil sonidos,reina del mar,11ovq68b4pnvqhiy6svpxg,2019-10-11,59,192000,0.221,0.958,0.183,0.821,0.102,0.057,-17.59,0.0362,117.321,6,4,calm
+mind-wanders,journey to the unknown,patrick hamilton,4synrslv9pginycbsc18jz,2020-07-10,32,207500,0.312,0.959,0.0185,0.901,0.111,0.147,-25.607,0.0437,176.972,9,4,calm
+minus,minus,daniel blumberg,5z8onmr6ew2endamrdowi5,2018-03-15,0,342493,0.244,0.501,0.254,0.0458,0.105,0.0909,-12.966,0.0296,81.04899999999998,7,4,sad
+montana,montana,le verne,1eycttkkgjvs3uytuy8yzm,2019-05-13,49,133645,0.435,0.913,0.0595,0.882,0.104,0.0898,-17.456,0.0435,115.929,2,4,calm
+monumental,monumental,antuigo,6cku6k0xvozagflqq44z56,2020-01-28,56,195057,0.491,0.916,0.217,0.962,0.177,0.0647,-6.805,0.0521,99.97,4,4,calm
+morning shimmer,morning shimmer,vochey,24pdulzfloktagh4axr36e,2020-05-13,49,218880,0.449,0.58,0.163,0.908,0.114,0.0501,-16.409000000000002,0.0361,125.088,11,4,calm
+movies,movies,weyes blood,4zyfwxohcidsdgudomk9fr,2019-03-19,30,353732,0.0903,0.6459999999999999,0.362,0.402,0.106,0.0964,-8.929,0.0337,74.729,7,4,sad
+mr. blue sky,out of the blue,electric light orchestra,2rlgnhkcydi9sayd2df2xp,1977,82,303373,0.388,0.652,0.338,3.72e-06,0.248,0.477,-10.054,0.0328,177.78400000000005,10,4,happy
+mr. jones,august and everything after,counting crows,5dixcvovi0fcy2s0icwwuu,1993-01-01,77,272293,0.578,0.183,0.8170000000000001,3.06e-06,0.285,0.726,-6.542000000000002,0.0363,141.621,0,4,happy
+mudshovel,dysfunction,staind,6264zkfgxm13jurbx4mmyd,1999-04-13,65,282093,0.328,0.000224,0.826,0.000944,0.0818,0.341,-5.085,0.0362,106.606,6,4,energetic
+"murder song (5, 4, 3, 2, 1) - acoustic",all my demons greeting me as a friend (deluxe),aurora,6mm22atxb7i5gftermf0mj,2016-03-11,55,218666,0.398,0.902,0.0887,1.76e-06,0.0873,0.356,-13.683,0.0334,74.797,9,4,sad
+my favourite game,best of,the cardigans,4lpopf5rxzhs1glzclhyat,2008-01-25,0,220413,0.594,0.000156,0.7659999999999999,0.00345,0.086,0.453,-7.598,0.0327,143.482,5,4,energetic
+my hero,greatest hits,foo fighters,7u5dbtasrtoubttzjjrvuj,2009-11-03,60,258973,0.364,6.01e-05,0.925,0.000251,0.0603,0.301,-4.224,0.0659,153.981,4,4,energetic
+my sharona,get the knack,the knack,1homkjp0nhmatnfakslcqj,1979-01-01,74,295400,0.586,0.0589,0.7,0.00125,0.0318,0.897,-9.558,0.0363,147.245,0,4,happy
+my way - marcus santoro remix,my way (ft. alice berg) [marcus santoro remix],nicky romero,29pqaseiyy3otgq55dzytt,2019-03-19,0,181147,0.563,0.0122,0.882,2.09e-06,0.0641,0.296,-4.755,0.0596,125.043,1,4,energetic
+never letting go,never letting go,audien,5llpdgzjjjfjv9al6zaily,2018-11-09,58,172519,0.534,0.0915,0.765,0.00107,0.225,0.117,-3.151,0.0338,127.978,1,4,happy
+never my love,voices in the sky,isobel campbell,4zrkmghvgggnjmhemmxd6i,2020-08-07,37,206584,0.764,0.6659999999999999,0.245,0.787,0.0967,0.356,-16.201,0.0383,101.968,8,4,sad
+night moves,night moves,bob seger,6ubjsnyp1o5w5ndjoo9vuk,1976-10-22,71,324422,0.705,0.4320000000000001,0.743,0.0133,0.103,0.374,-6.631,0.042,118.552,1,4,happy
+night surrender,night surrender,delange,0kox8haek0efewcnvtokty,2020-07-17,38,193653,0.211,0.993,0.00977,0.8909999999999999,0.0996,0.13,-25.787,0.0396,175.39700000000005,1,4,calm
+no more 54,no more 54,dada life,7lgkgntoygwfsjsggdxfop,2019-03-22,46,196273,0.541,0.000492,0.967,0.6759999999999999,0.103,0.134,-5.682,0.0529,126.026,1,4,energetic
+no time to die,no time to die,billie eilish,73spzrcahk0rqpfp73vqvr,2020-02-13,82,242265,0.38,0.917,0.219,0.0104,0.0827,0.0517,-13.273,0.0358,73.53699999999998,4,4,sad
+no woman,light upon the lake,whitney,1clmfkw99s8ejrebo3gb04,2016-06-03,66,237973,0.581,0.893,0.4,0.5760000000000001,0.161,0.433,-8.738999999999999,0.0291,112.331,2,4,sad
+north,solo (1*),ton snijders,3atuva6ojb7zxbbmfa5qyx,2020-08-07,26,126480,0.522,0.994,0.0155,0.927,0.0949,0.119,-28.022,0.0441,91.764,10,4,calm
+north captiva,north captiva,lundegard,32dzxkztsf5vt3prjquv2i,2020-06-12,48,194495,0.479,0.918,0.346,0.929,0.111,0.23,-17.916,0.0306,143.965,9,4,calm
+not alone,not alone,otto knows,7tx0ndscviutjoyd1c4a28,2016-11-25,44,215447,0.68,0.0053799999999999,0.721,0.000216,0.0679,0.267,-6.21,0.0355,122.0,7,4,happy
+nowhere kids,shapeshifter,smile empty soul,08ei81e55lcqg2zeljoxcg,2016-04-01,36,248413,0.511,0.000106,0.914,0.00097,0.195,0.393,-5.31,0.0457,99.011,8,4,energetic
+october rain,recollections vol. 4,various artists,2jdeypaowr0vmiykrgqmqe,2020-03-27,36,177077,0.187,0.992,0.014,0.923,0.0925,0.144,-29.31,0.0418,69.012,9,4,calm
+old rain on a new day,celestial siren,cora zea,5p8bz67vw2cuwayi12yvyj,2020-03-13,54,225500,0.286,0.971,0.14,0.892,0.134,0.154,-16.496,0.0346,119.191,7,4,calm
+older than i am,three. two. one.,lennon stella,15vdhams4jclzicjnkmql1,2020-04-24,66,181533,0.44,0.8909999999999999,0.306,0.0,0.103,0.201,-8.947000000000003,0.0363,117.288,9,4,sad
+on another ocean (january / june),on another ocean (january / june) [edit],fleet foxes,2fgmzsodapru4eysrkawvn,2017-09-29,0,263373,0.284,0.155,0.523,0.0934,0.0933,0.0697,-6.5120000000000005,0.0285,100.597,7,4,sad
+on my way (feat. jordan kaahn),on my way (feat. jordan kaahn),robbie rivera,0kdtki3vn3leobv3v3ehhy,2018-07-20,48,218000,0.6609999999999999,0.0188,0.93,0.00146,0.0919,0.3670000000000001,-4.208,0.0617,122.052,7,4,happy
+one night - d.o.d remix,one night (d.o.d remix),cedric gervais,5q0vxlfh80f3lmbgnude4m,2018-05-04,41,252500,0.6809999999999999,0.00732,0.969,0.199,0.219,0.26,-1.394,0.0702,126.024,1,4,energetic
+one step closer,hybrid theory,linkin park,61fuybl3xs40gcffnnnpox,2000-10-24,54,157333,0.4920000000000001,0.0014,0.969,1.32e-06,0.0787,0.5379999999999999,-4.419,0.0491,95.136,9,4,energetic
+only,only,ry x,0yfd3msq6jesnxozsljr7g,2016-03-04,0,268455,0.373,0.906,0.178,0.5579999999999999,0.109,0.0933,-15.52,0.0303,108.605,7,4,sad
+only you,we were here,joshua radin,2zayfnn1yqulsvdhhanr4q,2006,55,149013,0.545,0.362,0.255,1.77e-05,0.0841,0.831,-14.844,0.0311,98.088,8,4,sad
+open fields,open fields,faelt,24cjs73hbvytvguuzbnyan,2020-06-30,39,183181,0.491,0.97,0.197,0.916,0.214,0.216,-19.261,0.0298,132.106,4,4,calm
+open skies,open skies,lost horse mine,5bath5zpkb6uauocsl0xrm,2020-04-28,52,154863,0.56,0.00104,0.5589999999999999,0.812,0.123,0.0869,-7.807,0.0274,133.04399999999998,0,4,calm
+orbits,orbits,halfway escape,6jfx2shozh7tpiioomlrqj,2020-07-07,33,204827,0.438,0.855,0.404,0.8809999999999999,0.11,0.4,-13.924,0.039,116.142,6,4,calm
+our lady of sorrows,"i brought you my bullets, you brought me your love",my chemical romance,46mpwqpvsfkxrr5nwoww74,2002,50,125626,0.271,0.00099,0.931,0.0,0.182,0.382,-6.81,0.0785,142.407,1,4,energetic
+outside,outside,mormor,7cx3kipstzoskaqte3ltei,2019-03-21,51,238020,0.637,0.0925,0.613,0.425,0.156,0.598,-7.432,0.0272,127.006,1,4,sad
+over my head (better off dead),does this look infected?,sum 41,3so0vfryyv381w1imgwong,2002-01-01,49,149306,0.44,0.00222,0.919,0.00503,0.0892,0.773,-4.462,0.0735,184.324,7,4,energetic
+pain,a deeper understanding,the war on drugs,59p1nrdeimkaka1nyw9x2e,2017-08-25,60,330760,0.523,0.00387,0.833,0.000339,0.0841,0.482,-4.374,0.0405,115.975,7,4,sad
+paperthin hymn,never take friendship personal,anberlin,6vsmhllvyaakzryft3llou,2005-01-01,53,197480,0.298,0.00111,0.597,0.0,0.0819,0.536,-12.107,0.0343,180.43400000000003,5,4,energetic
+parabel,parabel,matteo myderwyk,4irzpcip60bro2wkbq5dii,2019-12-13,22,133000,0.354,0.976,0.0214,0.903,0.0957,0.148,-32.492,0.0388,112.008,6,4,calm
+paradise,mylo xyloto,coldplay,6nek1nin9q48avzcws9e9d,2011-10-24,80,278719,0.449,0.0522,0.585,8.49e-05,0.0833,0.203,-6.7620000000000005,0.0268,139.627,5,4,happy
+paralyzer,them vs. you vs. me,finger eleven,6k1njnbyuiqgwjlg4ed26y,2007-03-06,0,208106,0.6459999999999999,0.159,0.938,0.0,0.235,0.888,-3.4530000000000003,0.0448,106.029,11,4,energetic
+petrichor,petrichor,cecelya,22kky6ftt0i4nygncbwc1b,2019-01-29,54,118321,0.319,0.937,0.122,0.905,0.1669999999999999,0.214,-16.69,0.0373,70.263,4,4,calm
+pierre,virgule,hicham chahidi,1qlvrqex158nz91z72lzaa,2018,35,182000,0.356,0.989,0.0499,0.943,0.135,0.153,-24.949,0.0407,67.11,11,4,calm
+pink rupture,pink rupture,kornum & karma,3l47u91y7yigpplpbrulh0,2018-04-27,51,348907,0.736,0.00178,0.356,0.7040000000000001,0.0925,0.525,-8.676,0.0405,118.002,4,4,happy
+placidity,placidity,estado de calma,1xtkmixg2o5sqorni8szvk,2019-08-19,50,165268,0.261,0.474,0.25,0.893,0.0882,0.0827,-18.526,0.0339,153.045,7,4,calm
+play the ghost,play the ghost,sarah davachi,0nl2btth1uvqhwddummm3f,2020-08-06,31,301291,0.118,0.911,0.0567,0.879,0.106,0.0391,-19.274,0.0427,83.721,11,4,sad
+polyamorous,breaking benjamin: digital box set,breaking benjamin,1ovdggu8kdbchljtlm48mr,2009-01-01,37,176946,0.544,0.000132,0.895,0.107,0.147,0.875,-6.207000000000002,0.0522,98.128,1,4,energetic
+pour les oiseaux,des plumes dans la tête,sylvain chauveau,4nfa9tjhonf6lnu4srbfg9,2010-02-21,0,76773,0.376,0.965,0.0879,0.944,0.099,0.308,-19.815,0.0423,70.433,0,4,calm
+prelude,prelude,marynka,1qmdl4qnnkm8fdusermf21,2020-05-22,30,223500,0.306,0.996,0.0846,0.901,0.0909,0.118,-27.607,0.0535,164.732,1,4,calm
+pressure,pressure,seth hills,7f2d3p6nzgfr6874f0e7e7,2019-12-20,49,135585,0.708,0.00885,0.863,0.366,0.285,0.4370000000000001,-4.001,0.0606,127.981,9,4,energetic
+promise,horrorscope,eve 6,5mqel5pgndccwttwpaofiv,2000,48,176506,0.62,0.0079099999999999,0.85,0.0,0.0769,0.715,-4.096,0.0327,107.982,9,4,energetic
+pumped up kicks,torches,foster the people,7w87ixuo7bdcj3yuqcymtt,2011-05-23,84,239600,0.733,0.145,0.71,0.115,0.0956,0.965,-5.849,0.0292,127.975,5,4,happy
+quiet room,music for mindfulness,various artists,5utfztullgbq1qfywzg7jx,2017-10-20,0,156413,0.374,0.995,0.068,0.934,0.119,0.241,-21.842,0.0517,66.01,11,4,calm
+raven's feather - piano solo,raven's feather (piano solo),nina june,7sbla4bk7gpf2h42k6y0h3,2019-12-20,34,256259,0.594,0.988,0.0624,0.928,0.109,0.0738,-19.409,0.0472,123.999,10,4,calm
+reality,reality ep,chocolate puma,3sqyzak7duy3u4apojcrzj,2018-10-22,42,213750,0.6509999999999999,0.000934,0.836,0.932,0.112,0.0741,-6.154,0.0588,127.986,6,4,happy
+rebuscano,rebuscano,olivia belli,55vx26x342cwbm7akigws7,2020-06-26,37,173319,0.416,0.99,0.0322,0.929,0.101,0.0614,-29.145,0.0451,120.321,2,4,calm
+recording 15,living water,shannon lay,1vnfyczccjz0fy7mvva9lm,2017-09-22,60,242000,0.552,0.956,0.126,0.0153,0.109,0.439,-18.014,0.0306,92.441,11,4,sad
+remains,remains,dries beheydt,288oxp29qe5fikfic1b1gd,2020-04-25,32,228622,0.157,0.991,0.0755,0.897,0.184,0.119,-23.545,0.051,71.23,7,4,calm
+renee's song,renee's song,bazzi,13imiwdy7pge1f7nwykr1d,2020-04-01,73,130545,0.593,0.794,0.229,0.0,0.1669999999999999,0.42,-8.888,0.0307,117.823,9,4,sad
+rescue me,rescue me,dubvision,7dp18u679fmurjsuxuxmhu,2019-06-14,57,187382,0.494,0.069,0.7390000000000001,0.000368,0.0664,0.235,-4.61,0.0427,128.007,6,4,energetic
+retrospectacular,retrospectacular,domaine blanc,58z8r4kzpbftc6kvyzlwtb,2020-06-01,50,200000,0.368,0.81,0.293,0.8640000000000001,0.11,0.197,-16.379,0.0346,119.977,9,4,calm
+revitalize,unification,yonder dale,1spc2ir2uwzyuritfre1h3,2020-05-22,34,198545,0.597,0.95,0.327,0.96,0.0966,0.0399,-15.743,0.0342,109.99,9,4,calm
+rise (ft. matluck) - thomas gold remix,rise (ft. matluck) [thomas gold remix],nicky romero,24fghf9yplshowknhign8p,2018-10-10,0,225937,0.501,0.0071,0.784,0.000257,0.155,0.216,-4.292,0.0417,128.05200000000002,7,4,energetic
+river,bones,st woods,2mxnsggq0k4qfcymw0rcck,2020-05-08,42,276960,0.304,0.73,0.317,0.00519,0.118,0.0596,-10.52,0.0285,147.83,11,4,sad
+"rocket man (i think it's going to be a long, long time)",honky chateau,elton john,3gdewacmivmewvbyb8o9sy,1972-05-19,82,281613,0.601,0.4320000000000001,0.532,6.25e-06,0.0925,0.341,-9.119,0.0286,136.571,10,4,happy
+rylan,i am easy to find,the national,18iyalmzgqutwvzstmf7a1,2019-05-17,56,223853,0.609,0.403,0.789,0.0811,0.0446,0.7170000000000001,-5.565,0.0468,144.047,11,4,sad
+sahara love - seven lions remix,sahara love,above & beyond,6kjtxwntv8pabcl3el9tnv,2019-03-08,52,322892,0.275,0.0418,0.659,4.15e-05,0.079,0.149,-5.631,0.039,144.908,6,4,energetic
+samson,begin to hope (special edition),regina spektor,2bbhyuwj5vjdfi3p4prlu2,2006-06-13,51,189335,0.49,0.862,0.193,9.74e-06,0.113,0.184,-9.544,0.0421,89.154,11,4,sad
+saving daylight,saving daylight,harvest silence,0rdxzpadpgmbt8on1dxett,2020-05-01,52,206820,0.526,0.456,0.385,0.922,0.0935,0.212,-13.755,0.0296,120.008,0,4,calm
+schloss,schloss,elmau dunkel,07emfv0aoknsbtnonzmmjj,2019-05-24,51,222093,0.438,0.968,0.073,0.755,0.0935,0.0668,-21.94400000000001,0.0411,79.973,1,4,calm
+secrets,secrets,erik frank,3pgyowmcia5r4ilrnghwyf,2018-09-28,57,215714,0.743,0.762,0.748,6.25e-05,0.0939,0.476,-4.822,0.0519,126.086,0,4,energetic
+send me on my way,music from party of five,various artists,6hs3sdnbo3f6vqupo4kbeb,1996-11-12,73,263333,0.5,0.114,0.6809999999999999,4.01e-05,0.139,0.745,-9.556,0.0672,119.46,0,4,happy
+she remembers (piano solo),she remembers (piano solo),pieter savenberg,2uaxtr0xv4scdq6wilvnxc,2020-07-30,27,122537,0.619,0.996,0.0203,0.944,0.0812,0.337,-26.572,0.0369,135.86,6,4,calm
+shifts of light,still waters,avery young,0kn1zd8k3mtpqyix892mcf,2018-10-30,53,261613,0.455,0.931,0.216,0.921,0.0839,0.179,-20.107,0.0363,171.93599999999995,3,4,calm
+shimmer,the best of fuel,fuel,6dzbmjkvzpz1mrdobaoji8,2005,57,213948,0.263,0.00192,0.784,0.0,0.15,0.385,-6.513999999999999,0.054,114.671,7,4,energetic
+should have known better,carrie & lowell,sufjan stevens,5i6y1kwmuov5ycaiecs1qs,2015-03-31,65,307697,0.5710000000000001,0.979,0.172,0.275,0.124,0.297,-20.7,0.0318,90.972,7,4,sad
+silhouette,have you in my wilderness,julia holter,4rinlzzh1xd4xqbiwy7zfm,2015-09-25,37,233546,0.445,0.173,0.469,0.000624,0.0998,0.535,-5.981,0.0291,178.05200000000005,8,4,sad
+silver lining,silver lining,pieter de graaf,4w7vmuyvony198g1c79psq,2020-04-17,46,225839,0.317,0.986,0.106,0.899,0.111,0.108,-20.574,0.0302,78.66,1,4,calm
+simple song,the boy who cried wolf,passenger,70hwrkitkakfos500lbk0t,2017-07-28,62,228480,0.631,0.616,0.402,0.0114,0.0892,0.598,-11.125,0.0286,78.0,5,4,sad
+sintra,reflections,made of gold,0b6iqfslnygz5vczwndlz9,2020-06-09,49,201951,0.395,0.984,0.147,0.909,0.0724,0.1669999999999999,-19.174,0.051,164.176,2,4,calm
+siren song - radio edit,siren song,camelphat,1ugxhkyk50nixnqbkn73ds,2015-12-25,39,207301,0.71,0.00891,0.705,0.16,0.177,0.34,-7.417000000000002,0.0345,119.986,7,4,happy
+skinny love,"for emma, forever ago",bon iver,1nyfrrfijajiar6icj1goi,2008-05-12,67,238532,0.5920000000000001,0.8420000000000001,0.256,2.38e-06,0.088,0.103,-14.031,0.0449,76.361,4,4,sad
+sleep,son of a lady,hope sandoval and the warm inventions,7c0nad1gsrgztkgmbg7m7i,2017-09-15,25,228873,0.55,0.843,0.596,0.462,0.15,0.207,-8.962,0.0335,143.18200000000004,10,4,sad
+smile,"alright, still (deluxe)",lily allen,79z9qkhheptfssevw9uyj0,2006-07-14,75,196893,0.632,0.00143,0.639,0.0,0.221,0.733,-5.938,0.0259,95.506,5,4,happy
+smooth criminal,anthology,alien ant farm,2t3bluc9jnui2a0zhunoag,2001-01-01,0,209266,0.653,0.00287,0.966,0.0026,0.143,0.8740000000000001,-4.2360000000000015,0.0598,126.921,9,4,energetic
+snowfall,piano piano,florejan,51usovxexlh3evl3rwwjp7,2019-11-29,31,164703,0.4370000000000001,0.984,0.0747,0.914,0.109,0.175,-20.209,0.0648,117.078,1,4,calm
+some kind of love,wonderful wonderful,the killers,0vicqm86o7gnt42gdg34sa,2017-09-22,55,278093,0.246,0.713,0.482,0.226,0.102,0.0776,-9.949,0.0359,141.863,8,4,sad
+somebody - josef bamba remix radio edit,somebody (josef bamba remixes),oliver ingrosso,5riun21i50r717iomcj7kr,2017-07-21,42,227404,0.67,0.00162,0.88,0.0,0.261,0.312,-6.419,0.044,121.004,4,4,happy
+somebody that i used to know,making mirrors,gotye,1qdrwa6lyx8clecdze7tv7,2011-01-01,77,244884,0.865,0.5479999999999999,0.521,0.000115,0.0989,0.748,-6.932,0.0371,129.059,0,4,happy
+someday,chapter i,city of the sun,5zoetbdo9nons4knibxtnx,2019-11-15,53,288040,0.5720000000000001,0.265,0.5710000000000001,0.917,0.109,0.115,-10.067,0.0331,96.986,8,4,calm
+someone like you,21,adele,6qpkygnaw9qozvz2dswqrg,2011-01-19,79,285240,0.5539999999999999,0.893,0.321,0.0,0.0996,0.288,-8.251,0.028,135.047,9,4,sad
+someone new,someone new,thomas gold,2gkptpfly0ng8jrahposnn,2019-06-14,58,182812,0.655,0.00297,0.794,1.34e-05,0.1,0.389,-5.29,0.0765,127.957,6,4,happy
+somewhere only we know,somewhere only we know,valentin,1ewyal8sdjpix0m9b1arap,2020-05-25,51,193750,0.472,0.84,0.305,0.0,0.142,0.584,-11.465,0.0295,165.9,8,4,sad
+"song to the siren - recorded at strongroom studios, london",spotify singles,wolf alice,0hx6wjdplmpt254f9uyqnu,2017-11-15,42,211159,0.371,0.963,0.15,0.0,0.124,0.0785,-11.116,0.0294,68.774,2,4,sad
+south beach,south beach,vicetone,4gqvsxo7jkxg43umad1tbb,2018-10-12,54,201951,0.501,0.0303,0.887,2.64e-05,0.114,0.336,-3.941,0.0424,123.052,1,4,energetic
+spirit in the sky,spirit in the sky,norman greenbaum,7fqhrljzkhj0rw32n0y2gp,1969-01-01,0,242893,0.537,0.0939,0.606,0.00559,0.11,0.5820000000000001,-7.047999999999999,0.0347,128.73,2,4,happy
+stay,stay,gracie abrams,0uon5nssakbdx69xyoaq5p,2019-11-21,67,177152,0.618,0.883,0.37,0.0,0.123,0.433,-10.5,0.0543,114.26,10,4,sad
+stay home,stay home,golden sleep,5nrwr6u9kbi3np7hr7fyy8,2020-04-24,34,176000,0.234,0.992,0.174,0.942,0.148,0.362,-21.752,0.0376,66.301,9,4,calm
+stay still,stay still,alberto l. ferro,12nljypoumav4vqxfvfaw1,2020-03-20,30,283506,0.382,0.987,0.0305,0.7829999999999999,0.0921,0.0835,-26.271,0.0574,72.398,11,4,calm
+still alive,still alive,mastrovita,3y6wj6drp3qmgxev2zczbn,2018-06-07,42,141951,0.65,0.3,0.912,0.6679999999999999,0.306,0.7290000000000001,-4.2780000000000005,0.055,126.073,11,4,energetic
+still waiting to start,"the sun will come up, the seasons will change & the flowers will fall",nina nesbitt,1yertbtif9fkgxaelyljoa,2019-11-22,54,183173,0.615,0.639,0.332,0.0,0.15,0.515,-10.161,0.0295,125.894,7,4,sad
+strange dreams,solo piano,ella van der woude,0yxpmthf2ohlqcyigksrzy,2020-02-14,30,133918,0.308,0.988,0.0229,0.8190000000000001,0.0935,0.148,-26.941,0.0406,145.717,9,4,calm
+streets,rivals,kensington,265pozgwcywo6h5tq7kia6,2014-08-08,0,185358,0.376,0.000874,0.7709999999999999,8.98e-06,0.274,0.419,-5.8,0.0422,168.15400000000002,6,4,happy
+stuck in the middle with you,reservoir dogs (original motion picture soundtrack),various artists,1b7lmtxcxgc2ewoipli35z,2009-01-01,73,203893,0.795,0.0934,0.564,0.000531,0.0631,0.961,-10.482,0.0392,124.166,7,4,happy
+stupify,the sickness (10th anniversary edition),disturbed,54cwvwqgyfukgdkqymakm3,2010-03-12,61,274000,0.597,0.00108,0.939,9.77e-05,0.201,0.422,-3.0010000000000003,0.0446,98.0,1,4,energetic
+suds & soda,worst case scenario,deus,0maunkwshkrj4qjldubg66,1994-01-01,42,314200,0.149,8.51e-05,0.79,0.000248,0.0903,0.39,-7.93,0.052,170.28900000000004,4,4,happy
+suhpratti,hum,parazal,4a6c6k8c8iukpda2f0ri8j,2020-07-24,38,186542,0.564,0.974,0.0515,0.765,0.114,0.214,-15.118,0.0338,93.961,11,4,calm
+summer-blink,treasure hiding: the fontana years,cocteau twins,66epoq09v61hukb4sdm3q4,2018-10-05,22,189653,0.491,0.168,0.599,0.0,0.166,0.189,-6.7410000000000005,0.0274,80.048,5,4,sad
+sunspots,comforter,bodywash,2ynequczaqpkso8vff00cr,2019-08-30,7,283230,0.379,0.00565,0.499,0.125,0.077,0.335,-13.923,0.0411,155.993,4,4,sad
+supermarket,manuela,manuela,2k1omojqhbojf3nt4j6meq,2017-04-21,17,224727,0.588,0.812,0.352,0.0564,0.126,0.655,-9.624,0.0403,146.718,10,4,sad
+superstition,number 1's,stevie wonder,4dwrl3z5u2rz6mzike2pgl,2007-01-01,1,244826,0.648,0.0182,0.7509999999999999,0.000401,0.0418,0.863,-8.582,0.0806,100.437,8,4,happy
+take everything,take everything,gareth emery,2l93hpsnj8scbhiqfzzh1b,2018-12-14,54,212238,0.506,0.0234,0.823,0.000916,0.303,0.405,-5.272,0.0424,133.954,6,4,happy
+take on me,hunting high and low,a-ha,2wfaoimkcvy7f5fcp2zz8l,1985-06-01,84,225280,0.573,0.018,0.902,0.00125,0.0928,0.8759999999999999,-7.638,0.054,84.412,6,4,happy
+takeoff,takeoff,silo silo,4iksrwtbu0vlsqmzuxsgxr,2020-05-01,53,194666,0.44,0.625,0.32,0.8859999999999999,0.0823,0.0694,-12.011,0.0323,180.03599999999997,4,4,calm
+target,target,tom kalani,60thxabtlahzlkxrdwl9cp,2019-11-16,55,183000,0.55,0.7140000000000001,0.471,0.952,0.0815,0.261,-16.049,0.0295,159.983,5,4,calm
+teardrop - remastered 2006,bite size massive attack,massive attack,1zekzmhum380sfcuzepjml,2006-01-01,0,328026,0.612,0.0204,0.463,0.653,0.183,0.17,-7.653,0.035,76.98,11,4,sad
+teardrops - single version,music for groovin',various artists,5hikqllj3lauz8j9yhb0hx,2007-01-01,60,230573,0.879,0.037,0.693,0.119,0.18,0.966,-10.577,0.046,133.231,11,4,happy
+teenage dirtbag,wheatus,wheatus,25ftmokyebewhedss5jlzs,1999-02-15,68,241666,0.625,0.346,0.85,0.000233,0.174,0.633,-3.904,0.0495,94.661,4,4,happy
+tegel,tegel,lambert,5vh9sujtiivwtvkmif40wy,2020-05-01,42,151764,0.233,0.993,0.0997,0.937,0.105,0.123,-25.616,0.0456,84.309,1,4,calm
+telling tales,telling tales,song sung,3afzwvkaf2ipi68bmvvfwq,2020-05-26,36,252499,0.425,0.0262,0.555,0.284,0.206,0.247,-11.806,0.0287,108.991,0,4,sad
+thank you for the venom,three cheers for sweet revenge,my chemical romance,0bpkpyxhwstawkgxeod1sn,2004-06-08,61,221093,0.486,0.00237,0.977,0.0,0.298,0.413,-3.463,0.0603,103.501,7,4,energetic
+the a team,the a team,ed sheeran,2vbf8a6n0reigm7rsum65s,2011-05-01,34,258588,0.626,0.6779999999999999,0.286,0.0,0.134,0.366,-9.933,0.0374,84.954,9,4,sad
+the boys are back in town,jailbreak (deluxe edition),thin lizzy,2iaq1y8jevoqm6oa8l0xto,1976,0,266720,0.319,0.242,0.7120000000000001,0.000414,0.294,0.773,-9.742,0.0535,78.11399999999998,8,4,happy
+the calvary cross,live in studio,still corners,65ip0rtvp6hfkiunodg2vk,2019-11-25,32,306893,0.6609999999999999,0.675,0.425,0.13,0.104,0.19,-10.317,0.0312,114.042,9,4,sad
+the choice,the last of us,gustavo santaolalla,2ixjyg1dx93g2ehfxghz37,2013-06-07,59,102373,0.303,0.909,0.00338,0.89,0.116,0.347,-30.932,0.0493,50.96,4,4,calm
+the dazzler,ex:re,ex:re,12oa6khyn9fampdcpsm54i,2018-11-30,0,281567,0.775,0.343,0.218,0.00596,0.0866,0.361,-11.0,0.0461,133.036,9,4,sad
+the disappearance of the unmoved mover,the disappearance of the unmoved mover,so vea,62ueghla1sot2rhvaymn6k,2020-03-06,54,269296,0.627,0.879,0.4270000000000001,0.878,0.0977,0.132,-11.498,0.0283,112.043,11,4,calm
+the discovery,the discovery,sulfur springs,5nkk0t7lylydst5audykmq,2019-10-04,55,193000,0.414,0.8270000000000001,0.127,0.8220000000000001,0.0919,0.0354,-22.097,0.0383,130.02100000000002,0,4,calm
+the five times i loved you,pyramid train,cora zea,0w4ruo3m0jl0whads0plme,2020-05-15,50,205695,0.41,0.988,0.0845,0.93,0.109,0.0795,-21.814,0.0327,92.033,4,4,calm
+the funeral,the road mix: music from the television series one tree hill vol. 3,various artists,4ao5jxfoimjglvo8sjpjfr,2007-04-02,0,321146,0.316,0.0143,0.769,0.0,0.0928,0.118,-5.285,0.0422,122.458,0,4,sad
+the hardest button to button,elephant,the white stripes,5vvwpth7ccuhil5wsug7ky,2003-04-01,56,212426,0.6920000000000001,0.0097,0.515,0.292,0.103,0.5489999999999999,-8.488,0.0678,128.469,4,4,energetic
+the hell song,all the good sh**. 14 solid gold hits (2000-2008),sum 41,2iyrivrfexwd7yrfpqub7l,2009-01-01,37,199493,0.343,0.000135,0.956,0.00165,0.143,0.5529999999999999,-5.073,0.0739,173.325,8,4,energetic
+the hunger,the hunger,bat for lashes,7aasbmyceuxcgsvcmzmfej,2019-08-05,26,299000,0.436,0.0402,0.753,0.0204,0.148,0.399,-9.76,0.0359,89.96799999999998,4,4,sad
+the joker,the joker,steve miller band,1bp2io61zbqrbwnmkkxg3f,1973-01-01,77,264503,0.596,0.365,0.448,5.3e-06,0.206,0.7959999999999999,-9.616,0.0396,83.29299999999998,5,4,happy
+the king (with dzeko),the king (with dzeko),dimitri vangelis & wyman,40ubcjwywpqowfvv4dpvfc,2019-06-14,59,209493,0.655,0.0587,0.726,0.00311,0.145,0.292,-4.614,0.0324,128.001,9,4,energetic
+the safety dance,greatest,men without hats,5o4nfbdqj8sofbjnihdpdt,2013-02-11,61,164866,0.524,0.0252,0.8809999999999999,0.0,0.101,0.62,-4.479,0.0468,101.677,5,4,happy
+the temporary,the temporary,kate teague,5g5dwjd6zwxg81lrdesnqr,2020-06-16,36,219018,0.5489999999999999,0.292,0.524,0.0366,0.122,0.229,-8.288,0.0261,94.991,0,4,sad
+the wall,the wall,alok,0qp1ih1ekrcnabfgzxnmut,2019-06-28,59,159500,0.682,0.00953,0.91,0.0673,0.0732,0.536,-2.314,0.0431,122.943,11,4,energetic
+there for you,there for you,gorgon city,4qv71lfpcobf7zol1uwcjb,2019-08-16,68,186493,0.5329999999999999,0.00529,0.8440000000000001,8.909999999999997e-05,0.0722,0.7120000000000001,-5.04,0.0302,123.971,11,4,energetic
+thin white duchess,thin white duchess,martin thulin,0qevfrz5eixah4vzwevik4,2020-01-31,28,252392,0.537,0.115,0.655,0.294,0.243,0.283,-8.193999999999999,0.0374,119.965,7,4,sad
+thirteen thirty-five,this silence kills,dillon,3n2vr4m44bbzivcz0o4bnf,2011-11-11,0,223085,0.67,0.7859999999999999,0.293,0.0,0.215,0.36,-10.56,0.0486,66.97399999999999,5,4,sad
+this reminds you - satie remix,this reminds you,remy van kesteren,7sjm369jitaqlnkymeme7f,2019-02-01,0,321146,0.258,0.87,0.0589,0.898,0.148,0.0378,-23.782,0.0381,98.874,5,4,calm
+tilted towers,tilted towers,alesso,5hdaqegqnitmjnacflohqd,2018-11-30,50,259475,0.7020000000000001,0.000771,0.8420000000000001,0.828,0.28,0.175,-5.059,0.0331,124.01,7,4,happy
+time out,time out,amoll,4cysf9mujowxtmtvt39htl,2020-01-03,32,174240,0.695,0.988,0.0761,0.929,0.133,0.262,-17.043,0.0399,125.017,9,4,calm
+time travel,rooftops,ambie,2enh05q7pkilef6wujxnjg,2020-06-22,39,160788,0.502,0.965,0.289,0.913,0.153,0.156,-17.378,0.0307,137.92600000000002,8,4,calm
+tiptoeing,tiptoeing,jacco wynia,28nlvohu6nbkhnpmoxr8ud,2020-03-20,37,120536,0.467,0.986,0.1369999999999999,0.928,0.101,0.0687,-23.087,0.043,118.715,0,4,calm
+to the hilt,to the hilt,banks,41bqxcndrcysbjnjktpcdp,2016-09-16,42,276746,0.327,0.948,0.101,0.0,0.0945,0.0866,-13.949000000000002,0.0525,171.734,8,4,sad
+to the moon,to the moon,junodream,65aabj5xsdcxgt92w3jk0o,2018-05-08,0,170021,0.703,0.356,0.352,0.00378,0.0715,0.85,-14.859000000000002,0.0428,108.003,4,4,sad
+tomorrow,tomorrow,annelie,6tcyeip0uv6lxkmt4fcqf5,2020-07-03,39,208520,0.325,0.964,0.0809,0.8390000000000001,0.118,0.0604,-24.493,0.0527,178.30700000000004,5,4,calm
+trees - solo piano,trees,patrick hamilton,2sdxyhbst2s6dgodsgnnbm,2020-06-26,31,174890,0.282,0.957,0.0717,0.919,0.0996,0.206,-25.816,0.053,163.128,5,4,calm
+tuesday,tuesday,annelie,2guchyit1fmdtxtxl6sbue,2020-04-03,47,191293,0.3229999999999999,0.99,0.0214,0.902,0.0891,0.0703,-30.328000000000007,0.0384,104.033,4,4,calm
+twist and shout - remastered 2009,please please me (remastered),the beatles,5zbeml7lf3fmevvityvi8l,1963-03-22,74,155226,0.482,0.6409999999999999,0.8490000000000001,7.74e-06,0.0414,0.937,-9.198,0.0452,124.631,2,4,happy
+two princes,pocket full of kryptonite,spin doctors,4epp9so5xrzspjlfvvbj90,1991-08-27,72,256733,0.5429999999999999,0.00162,0.912,2.1e-06,0.0565,0.836,-10.71,0.0601,103.731,7,4,happy
+ufof,ufof,big thief,0dzfbejhopyjhqoatke3kz,2019-02-26,0,188413,0.623,0.638,0.613,0.5720000000000001,0.143,0.745,-9.241,0.0309,147.168,10,4,sad
+under a killing moon,the artist in the ambulance,thrice,0xiivuyimrmkuyjkkiilpw,2003-01-01,41,161733,0.414,7.12e-06,0.988,0.44,0.0709,0.489,-3.703,0.0786,184.995,8,4,energetic
+understudy,understudy,josie mehlin,0y41zfnvanrqp9dqiagwbc,2019-09-14,51,163875,0.494,0.983,0.263,0.92,0.0746,0.105,-16.817999999999998,0.0325,159.875,0,4,calm
+underwater - tinlicker remix,underwater (tinlicker remix),gabriel & dresden,7ku9ctunocfqwp6z04qtry,2018-05-01,53,239894,0.627,0.0607,0.857,0.835,0.132,0.124,-8.253,0.0402,121.976,7,4,happy
+unintended,showbiz,muse,6kyxqufd38mo4s3urd2wkw,1999,61,237026,0.487,0.647,0.279,0.00185,0.11,0.162,-11.586,0.0265,139.362,6,4,sad
+universe,universe,noah vanden abeele,0vrjzyzpekz3vlijou3w6a,2018-10-12,25,250987,0.623,0.994,0.134,0.935,0.192,0.171,-18.953,0.0478,62.562,5,4,calm
+uprising,the resistance,muse,4vqporuhp5edpber92t6lq,2009-09-10,75,304840,0.602,0.000202,0.905,0.064,0.117,0.411,-4.046,0.0775,128.019,2,4,energetic
+used to be,used to be,jurrivh,0p44zfo2s1c50vmx0b7mpf,2020-06-20,38,265641,0.201,0.989,0.0394,0.8390000000000001,0.0881,0.0754,-21.798,0.0334,73.742,10,4,calm
+vagabond,vagabond,steve gunn,5gdzbpycrrpf5mc4vomg89,2019-01-08,20,301960,0.545,0.0888,0.7879999999999999,0.0258,0.0765,0.647,-3.968,0.0281,129.922,11,4,sad
+vague,envision,amaranth cove,3ioxcewmocrtyl5txfdzwu,2020-01-03,59,143000,0.32,0.8809999999999999,0.253,0.935,0.121,0.125,-17.843,0.0356,140.029,10,4,calm
+venom,venom,dave202,4evap7mwnjdmkadxxeuf5t,2018-07-13,42,194500,0.357,0.159,0.851,0.866,0.146,0.241,-6.103,0.0534,130.013,2,4,happy
+video killed the radio star,the age of plastic,the buggles,7o7e1nrhwncyy7py94gcix,1980-01-10,71,252773,0.68,0.103,0.6779999999999999,0.00828,0.204,0.251,-11.548,0.0754,131.165,1,4,happy
+viva la vida,viva la vida (prospekt's march edition),coldplay,5s6pyzd8wh3oqapdhtdm9m,2008-11-24,56,242373,0.485,0.0941,0.619,3.31e-06,0.109,0.416,-7.115,0.0289,138.017,5,4,happy
+waiting,skisser,alice boman,7eclklwbrr3toryedzadki,2013-05-22,0,184320,0.236,0.975,0.33,0.126,0.116,0.0827,-10.085,0.0325,86.546,8,4,sad
+waiting like the storm,nocturne in green,rand aldo,1ciizffelxmwlykagdptul,2019-12-06,52,257625,0.162,0.946,0.0564,0.889,0.101,0.0361,-20.696,0.0341,60.01,5,4,calm
+war,rivals,kensington,3h1in20dlo5kasp1vled90,2014-08-08,0,176652,0.6409999999999999,0.079,0.8059999999999999,0.00158,0.0708,0.721,-6.2810000000000015,0.0323,125.987,8,4,happy
+wash it all away,got your six (deluxe),five finger death punch,6akwovoj81oqfsgxzbj6qn,2015-09-04,63,224906,0.485,2.08e-05,0.987,0.0,0.267,0.272,-3.1,0.0738,123.576,4,4,energetic
+watching clouds disappear,watching clouds disappear,florejan,18hzyqsqdmtxv5i9yshjtw,2020-05-15,35,142861,0.495,0.99,0.0191,0.902,0.113,0.243,-26.317,0.0362,112.814,5,4,calm
+water colors,water colors,star slide,7rpgof9mwcp2oaz9ydo452,2019-09-18,50,182079,0.465,0.633,0.12,0.937,0.085,0.0659,-19.328,0.0386,72.021,7,4,calm
+wave of mutilation,wave of mutilation,beacon,1beljqozpnnjsc3nfiahxs,2020-01-10,31,149635,0.481,0.8420000000000001,0.229,0.00205,0.105,0.0525,-13.5,0.0342,92.014,6,4,sad
+we wait,for their love,other lives,3qeaxgkrvt8cfhdrfdk5pl,2020-04-24,39,221662,0.387,0.654,0.5770000000000001,0.127,0.163,0.447,-8.259,0.0353,149.048,1,4,sad
+what i like about you,what i like about you (and other romantic hits),the romantics,6ndcsehpggayxnnnhgs2s6,1990,68,175400,0.542,0.319,0.915,5.34e-05,0.171,0.92,-9.637,0.0549,159.81,9,4,happy
+what should have been,what should have been,ron verboom,0jocizo7hg4jxl3o9mraka,2020-03-06,30,152157,0.322,0.994,0.149,0.92,0.122,0.0655,-17.948,0.0515,114.695,2,4,calm
+what you love you must love now,everywhere and right here,the six parts seven,3l0fpx8bielkh57ff3exkd,2004-08-16,59,322160,0.256,0.3670000000000001,0.456,0.8809999999999999,0.119,0.0682,-10.865,0.0306,70.357,4,4,calm
+what's good,what's good,fenne lily,6obl3esnguz8pllwdwinws,2017-03-17,49,216875,0.542,0.935,0.0957,6.4e-06,0.182,0.259,-14.518,0.0404,134.739,8,4,sad
+when they come,when they come,threading hair,100jbpd7nuimrir7erxq9s,2019-09-16,57,262000,0.501,0.922,0.378,0.825,0.115,0.193,-14.959,0.0269,108.034,6,4,calm
+when you left,when you left,rouge haven,1uu52k2fxy7hl4lq8attyy,2020-04-21,52,177224,0.56,0.984,0.0853,0.918,0.108,0.113,-15.918,0.0324,96.646,5,4,calm
+where your mind wants to go - rone remix,where your mind wants to go (rone remix),blonde redhead,4podzqgdj6iwci7jruy5xf,2018-08-10,14,336481,0.6509999999999999,0.333,0.848,0.763,0.101,0.154,-8.941,0.0458,119.977,10,4,sad
+while the rest of the world sleeps,while the rest of the world sleeps,josh kramer,4hi0t9qqodb9k3asm8sfb6,2020-01-31,35,231841,0.423,0.988,0.0442,0.947,0.108,0.182,-21.088,0.0378,73.407,11,4,calm
+whiskey in the jar,"garage, inc.",metallica,77gy3wsonesq9jowgbmdlj,1998-11-24,0,304893,0.511,5.36e-06,0.972,0.00101,0.19,0.532,-3.751,0.0413,132.97,10,4,energetic
+white sparks,white sparks,wilson trouvé,7lf1xx9nnuvftrrlijseoh,2019-12-13,30,126801,0.574,0.989,0.0835,0.935,0.117,0.265,-22.763,0.0413,106.027,10,4,calm
+wild wild son - club mix,wild wild son (club mix),armin van buuren,2fgo49rzwsvwkcwakspwq8,2018-10-19,35,218200,0.526,0.00138,0.867,0.00064,0.0975,0.12,-4.332,0.0659,132.106,5,4,energetic
+willet,swan,dust follows,6uesrqzxshkmjy07kvnlku,2020-03-27,48,179610,0.425,0.967,0.168,0.818,0.16,0.0376,-14.064,0.0322,90.076,0,4,calm
+wished,wished,sorry,4wibisn9ephsqi90sblhad,2017-11-11,28,193074,0.445,0.332,0.536,0.0645,0.0576,0.486,-7.65,0.0261,172.15,7,4,sad
+without,inertia,the exies,4qguryo5rjexa48aurwklz,2003-01-01,19,209906,0.523,0.000357,0.95,0.0,0.0944,0.479,-4.415,0.0467,99.231,6,4,energetic
+wolkendans,soms alleen,doeke,3buuxhhwq4aqvda9dzvsry,2020-07-10,32,120029,0.38,0.996,0.0355,0.91,0.115,0.22,-27.118,0.0465,179.205,0,4,calm
+wonderful together (feat. envy monroe),wonderful together (feat. envy monroe),blasterjaxx,3uastdvn7y9a6kttmkfdtk,2019-06-14,53,203076,0.591,0.0484,0.759,1.23e-06,0.108,0.235,-3.785,0.0404,130.043,5,4,happy
+wonderwall,(what's the story) morning glory?,oasis,79rumzfmnmpqznswovvtqv,1995-10-02,15,258906,0.412,0.00214,0.8440000000000001,0.0,0.134,0.459,-5.613,0.037,174.452,2,4,happy
+worlds collide - edison cole remix,worlds collide (remixes),nervo,3jqpijrqfmw68ykpxxwpl4,2019-11-22,55,192413,0.631,0.0149,0.862,6.23e-05,0.103,0.438,-4.114,0.0515,145.01,8,4,happy
+would you rather,stranger in the alps,phoebe bridgers,4ctet5qumxa8ruzdeqagkk,2017-09-22,49,199080,0.482,0.936,0.363,0.000109,0.104,0.261,-10.925999999999998,0.0309,135.779,10,4,sad
+wrong way,sublime greatest hits,sublime,6uuqbb6wxrcijwsstrfiye,1999-11-09,1,136360,0.6629999999999999,0.0655,0.6709999999999999,0.0,0.107,0.955,-6.103,0.0395,74.453,9,4,energetic
+yam yam,yam yam,no vacation,1j56m8iogh48yukqj64qgk,2017-05-12,0,216038,0.445,0.319,0.591,0.7659999999999999,0.107,0.0774,-9.004,0.0316,137.864,7,4,sad
+you are safe with me,delta/alpha,jef martens,4t2xuvb63kvqwealaaaqaz,2020-05-01,35,86125,0.392,0.99,0.039,0.949,0.1,0.389,-27.643,0.0312,99.731,9,4,calm
+you get what you give,maybe you've been brainwashed too,new radicals,32lf1rsindtdk6av3kdfay,1998-01-01,1,300773,0.621,0.17,0.901,0.0,0.0875,0.7440000000000001,-5.396,0.0302,113.967,2,4,happy
+you were bored,you were bored,loyal lobos,5biwf6l3dnpkcueuzmlhdz,2020-07-15,36,263080,0.291,0.7809999999999999,0.419,0.00433,0.113,0.0613,-10.33,0.0305,114.935,6,4,sad
+"you're gonna go far, kid",21 alt rock anthems,various artists,7oypojjhzoalqqlgkptefk,2014-07-22,0,178333,0.547,0.00485,0.877,0.0,0.247,0.611,-5.135,0.0658,126.083,9,4,energetic
+you're my best friend - remastered 2011,queen 40 limited edition collector's box set,queen,4vexj6nvews8ptynknswaa,2011-01-01,57,170800,0.518,0.158,0.7609999999999999,0.00765,0.0715,0.5760000000000001,-7.025,0.0452,118.738,0,4,happy
+your turn now,your turn now,aaron smith,6ij1soe86rp6d9ysxwcz9n,2020-07-10,49,239500,0.634,0.8190000000000001,0.193,0.0,0.113,0.159,-9.503,0.0277,95.004,7,4,sad
+youth,the wild youth ep,daughter,1jdmo4evphtm0xxhjb2ijr,2012-02-29,0,251626,0.588,0.61,0.477,0.00188,0.122,0.488,-12.71,0.0492,150.39600000000004,9,4,sad
+alpha waves,alpha waves,eucalyptic,5zcw5cdwhfxjgl2mzxgwhx,2019-11-11,59,205127,0.561,0.795,0.314,0.8759999999999999,0.115,0.0883,-16.989,0.0281,95.931,4,4,calm
+cry on airplanes,cry on airplanes,julian,1elezgomfru5n7bnotuaqi,2020-04-10,40,226000,0.763,0.5479999999999999,0.3720000000000001,0.000638,0.116,0.76,-7.07,0.0683,85.01,5,4,sad
+i don't want to watch the world end with someone else,i don't want to watch the world end with someone else,clinton kane,58qx77t2vwmwcycsh9zklc,2020-05-08,68,184505,0.535,0.7709999999999999,0.359,0.0,0.111,0.488,-9.343,0.0607,154.16299999999995,2,4,sad
+lovely (with khalid),lovely (with khalid),billie eilish,0u2p5u6lvodfwtyjaadbn4,2018-04-19,88,200185,0.351,0.934,0.296,0.0,0.095,0.12,-10.109,0.0333,115.284,4,4,sad
+mellow,sleep escape,cloudcrush,1yjxnoep2bq1n1691n37os,2020-05-20,48,144434,0.609,0.985,0.157,0.792,0.112,0.0698,-15.792,0.0322,111.966,0,4,calm
+no song without you,no song without you,honne,3kkuf8f2hktfsclgbh4ywr,2020-06-12,75,161536,0.778,0.463,0.462,0.583,0.11,0.8170000000000001,-12.729,0.0359,105.45,0,4,sad
+pass you by,the voicenotes,alaina castillo,4nvwmupctfitpxetr5aozp,2020-04-24,60,245945,0.51,0.892,0.355,0.0,0.133,0.453,-6.882999999999999,0.0287,141.796,11,4,sad
+the frost,sentience,praam,7l4b5jynl1wwufvjgkmuwr,2020-01-24,35,254440,0.259,0.956,0.259,0.942,0.0923,0.0403,-18.89,0.0594,123.693,3,4,calm
+the theme song,notion,teodor wolgers,3n2qaryg5ntg5cwwq5mw3q,2020-04-24,36,159840,0.604,0.986,0.03,0.952,0.105,0.15,-27.007,0.0386,117.781,0,4,calm
+you broke me first,you broke me first,tate mcrae,45be4hxi0awgzxfztmp8jr,2020-04-17,87,169265,0.642,0.7859999999999999,0.374,0.0,0.0906,0.0799,-9.386,0.0545,124.099,4,4,sad
+you were good to me,brent,jeremy zucker,4cxfn5zon70b3vopbybd6p,2019-05-03,76,219146,0.561,0.913,0.0848,2.62e-05,0.112,0.206,-15.099,0.0404,102.128,2,4,sad
+æfre,æfre,praam,2irbt1bsyaief44plykaom,2020-07-17,41,186331,0.377,0.994,0.0156,0.8809999999999999,0.0991,0.0804,-28.435,0.0397,140.179,0,4,calm

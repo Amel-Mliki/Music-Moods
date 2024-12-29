@@ -1,0 +1,93 @@
+
+<definitions xmlns="http://schemas.xmlsoap.org/wsdl/"
+             xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"
+             xmlns:tns="http://example.com/songservice"
+             xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+             targetNamespace="http://example.com/songservice"
+             name="SongService">
+
+    <!-- Data Types -->
+    <types>
+        <xsd:schema targetNamespace="http://example.com/songservice">
+            <xsd:element name="GetSongsRequest" type="xsd:anyType"/>
+            <xsd:element name="GetSongsResponse">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="songs" type="xsd:string" maxOccurs="unbounded"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="RecommendSongsRequest">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="mood" type="xsd:string"/>
+                        <xsd:element name="limit" type="xsd:int"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="RecommendSongsResponse">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="songs" type="xsd:string" maxOccurs="unbounded"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+        </xsd:schema>
+    </types>
+
+    <!-- Messages -->
+    <message name="GetSongsRequestMessage">
+        <part name="parameters" element="tns:GetSongsRequest"/>
+    </message>
+    <message name="GetSongsResponseMessage">
+        <part name="parameters" element="tns:GetSongsResponse"/>
+    </message>
+    <message name="RecommendSongsRequestMessage">
+        <part name="parameters" element="tns:RecommendSongsRequest"/>
+    </message>
+    <message name="RecommendSongsResponseMessage">
+        <part name="parameters" element="tns:RecommendSongsResponse"/>
+    </message>
+
+    <!-- Port Type -->
+    <portType name="SongServicePortType">
+        <operation name="GetSongs">
+            <input message="tns:GetSongsRequestMessage"/>
+            <output message="tns:GetSongsResponseMessage"/>
+        </operation>
+        <operation name="RecommendSongs">
+            <input message="tns:RecommendSongsRequestMessage"/>
+            <output message="tns:RecommendSongsResponseMessage"/>
+        </operation>
+    </portType>
+
+    <!-- Binding -->
+    <binding name="SongServiceBinding" type="tns:SongServicePortType">
+        <soap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+        <operation name="GetSongs">
+            <soap:operation soapAction="http://example.com/songservice/GetSongs" style="document"/>
+            <input>
+                <soap:body use="literal"/>
+            </input>
+            <output>
+                <soap:body use="literal"/>
+            </output>
+        </operation>
+        <operation name="RecommendSongs">
+            <soap:operation soapAction="http://example.com/songservice/RecommendSongs" style="document"/>
+            <input>
+                <soap:body use="literal"/>
+            </input>
+            <output>
+                <soap:body use="literal"/>
+            </output>
+        </operation>
+    </binding>
+
+    <!-- Service -->
+    <service name="SongService">
+        <port name="SongServicePort" binding="tns:SongServiceBinding">
+            <soap:address location="http://127.0.0.1:8082/"/>
+        </port>
+    </service>
+</definitions>

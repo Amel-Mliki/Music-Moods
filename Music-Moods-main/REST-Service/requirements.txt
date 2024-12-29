@@ -1,0 +1,9 @@
+streamlit
+requests
+gql
+fastapi
+ariadne
+pandas
+spotipy
+uvicorn
+scikit-learn
