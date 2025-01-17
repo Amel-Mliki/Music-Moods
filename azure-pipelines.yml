@@ -7,11 +7,11 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-- task: UsePythonVersion@5
+- task: UsePythonVersion@4
   inputs:
     versionSpec: '3.x'
 
-- task: SonarQubePrepare@5
+- task: SonarQubePrepare@4
   inputs:
     SonarQube: '<SonarQube Connection>'
     projectKey: 'YourProjectKey'
@@ -22,7 +22,7 @@ steps:
     sonar-scanner
   displayName: 'Run Tests and SonarQube Scan'
 
-- task: PublishBuildArtifacts@5
+- task: PublishBuildArtifacts@4
   inputs:
     artifactName: 'drop'
     targetPath: '$(System.DefaultWorkingDirectory)'
