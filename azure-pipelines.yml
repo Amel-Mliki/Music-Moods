@@ -1,0 +1,28 @@
+trigger:
+  branches:
+    include:
+      - develop
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+- task: UsePythonVersion@0
+  inputs:
+    versionSpec: '3.x'
+
+- task: SonarQubePrepare@4
+  inputs:
+    SonarQube: '<SonarQube Connection>'
+    projectKey: 'YourProjectKey'
+    projectName: 'YourProjectName'
+
+- script: |
+    python -m unittest
+    sonar-scanner
+  displayName: 'Run Tests and SonarQube Scan'
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    artifactName: 'drop'
+    targetPath: '$(System.DefaultWorkingDirectory)'
