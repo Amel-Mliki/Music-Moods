@@ -11,7 +11,7 @@ steps:
   inputs:
     versionSpec: '3.x'
 
-- task: SonarQubePrepare@4
+- task: SonarQubePrepare@7
   inputs:
     SonarQube: '<SonarQube Connection>'
     projectKey: 'YourProjectKey'
