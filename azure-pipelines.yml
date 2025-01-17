@@ -22,7 +22,7 @@ steps:
     sonar-scanner
   displayName: 'Run Tests and SonarQube Scan'
 
-- task: PublishBuildArtifacts@1
+- task: PublishBuildArtifacts@7
   inputs:
     artifactName: 'drop'
     targetPath: '$(System.DefaultWorkingDirectory)'
