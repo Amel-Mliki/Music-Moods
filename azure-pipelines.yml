@@ -1,24 +1,28 @@
 trigger:
-- main  # Déclenchement de la pipeline sur la branche "main"
+  branches:
+    include:
+      - develop
 
 pool:
-  vmImage: 'ubuntu-latest'  # Choix de l'image d'agent
+  vmImage: 'ubuntu-latest'
 
 steps:
-- task: UsePythonVersion@1  # Configuration de l'environnement Python (facultatif, selon vos besoins)
+- task: UsePythonVersion@4
   inputs:
     versionSpec: '3.x'
-    addToPath: true
+
+- task: SonarQubePrepare@4
+  inputs:
+    SonarQube: '<SonarQube Connection>'
+    projectKey: 'YourProjectKey'
+    projectName: 'YourProjectName'
 
 - script: |
-    echo "Installing dependencies"
-    pip install -r requirements.txt
-    echo "Running tests"
-    pytest
-  displayName: 'Install dependencies and run tests'
+    python -m unittest
+    sonar-scanner
+  displayName: 'Run Tests and SonarQube Scan'
 
-- task: PublishBuildArtifacts@1
+- task: PublishBuildArtifacts@4
   inputs:
-    pathToPublish: $(Build.ArtifactStagingDirectory)
-    artifactName: drop
-    publishLocation: 'Container'
+    artifactName: 'drop'
+    targetPath: '$(System.DefaultWorkingDirectory)'
