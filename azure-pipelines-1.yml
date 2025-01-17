@@ -1,0 +1,25 @@
+trigger:
+  branches:
+    include:
+      - main
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+- task: SonarQubePrepare@4
+  inputs:
+    SonarQube: 'ci_pipeline'  # Nom de la connexion de service configurée
+    scannerMode: 'CLI'
+    configMode: 'manual'
+    cliProjectKey: 'MyProjectKey'
+    cliProjectName: 'MyProjectName'
+    cliProjectVersion: '1.0'
+
+- script: |
+    sonar-scanner
+  displayName: 'Run SonarQube Scanner'
+
+- task: SonarQubePublish@4
+  inputs:
+    pollingTimeoutSec: '300'
