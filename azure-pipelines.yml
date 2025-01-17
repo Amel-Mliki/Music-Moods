@@ -1,28 +1,36 @@
 trigger:
   branches:
     include:
+      - main
       - develop
 
 pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-- task: UsePythonVersion@4
+- task: UseDotNet@2
   inputs:
-    versionSpec: '3.x'
+    packageType: 'sdk'
+    version: '6.x'
+
+- script: dotnet build
+  displayName: 'Build Solution'
+
+- script: dotnet test
+  displayName: 'Run Unit Tests'
 
 - task: SonarQubePrepare@4
   inputs:
-    SonarQube: '<SonarQube Connection>'
-    projectKey: 'YourProjectKey'
-    projectName: 'YourProjectName'
+    SonarQube: '<SonarQube Service Connection>'
+    scannerMode: 'MSBuild'
+    configMode: 'manual'
+    projectKey: 'MyProjectKey'
+    projectName: 'MyProject'
 
-- script: |
-    python -m unittest
-    sonar-scanner
-  displayName: 'Run Tests and SonarQube Scan'
+- task: SonarQubeAnalyze@4
 
-- task: PublishBuildArtifacts@4
+- task: Docker@2
   inputs:
-    artifactName: 'drop'
-    targetPath: '$(System.DefaultWorkingDirectory)'
+    command: 'buildAndPush'
+    repository: '<repository-name>'
+    tags: 'latest'
