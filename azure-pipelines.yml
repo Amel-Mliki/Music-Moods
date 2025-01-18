@@ -18,7 +18,7 @@ steps:
 - script: dotnet test
   displayName: 'Run Unit Tests'
 
-- task: SonarQubePrepare@4
+- task: SonarQubePrepare@7
   inputs:
     SonarQube: '<SonarQube Service Connection>'
     scannerMode: 'MSBuild'
@@ -26,7 +26,7 @@ steps:
     projectKey: 'MyProjectKey'
     projectName: 'MyProject'
 
-- task: SonarQubeAnalyze@4
+- task: SonarQubeAnalyze@7
 
 - task: Docker@2
   inputs:
