@@ -4,8 +4,7 @@ trigger:
       - main
       - develop
 
-pool:
-  vmImage: 'ubuntu-latest'
+pool: MyAgentPool
 
 steps:
 - task: UseDotNet@2
